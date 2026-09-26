@@ -12,11 +12,30 @@ layout: default
 <section class="entries" id="entries" aria-labelledby="entries-title">
   <div class="section-heading">
     <h2 id="entries-title">Field notes</h2>
-    <span>游记 · {{ site.posts.size }} {% if site.posts.size == 1 %}entry{% else %}entries{% endif %}</span>
+    <span id="entry-count" role="status" aria-live="polite">游记 · {{ site.posts.size }} {% if site.posts.size == 1 %}entry{% else %}entries{% endif %}</span>
   </div>
+  <div class="entry-filters" id="entry-filters" hidden>
+    <div class="entry-filter">
+      <label for="filter-year">Year</label>
+      <select id="filter-year"><option value="">All years</option>
+        {% assign years = site.posts | group_by_exp: 'post', "post.date | date: '%Y'" %}
+        {% for year in years %}<option value="{{ year.name }}">{{ year.name }}</option>{% endfor %}
+      </select>
+    </div>
+    <div class="entry-filter">
+      <label for="filter-location">Location</label>
+      <select id="filter-location"><option value="">All locations</option>
+        {% assign locations = site.posts | map: 'location' | compact | uniq | sort %}
+        {% for location in locations %}<option value="{{ location | escape }}">{{ location | escape }}</option>{% endfor %}
+        {% assign unlocated = site.posts | where_exp: 'post', 'post.location == nil' %}
+        {% if unlocated.size > 0 %}<option value="__unspecified__">Unspecified</option>{% endif %}
+      </select>
+    </div>
+  </div>
+  <p class="entry-empty" id="entry-empty" hidden>No entries match these filters.</p>
 
   {% for post in site.posts %}
-  <article class="entry">
+  <article class="entry" data-year="{{ post.date | date: '%Y' }}" data-location="{{ post.location | default: '__unspecified__' | escape }}">
     <div class="entry-date"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %Y' }}</time></div>
     <div class="entry-body">
       <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
@@ -26,3 +45,29 @@ layout: default
   </article>
   {% endfor %}
 </section>
+<script>
+  (() => {
+    const filters = document.getElementById('entry-filters');
+    const year = document.getElementById('filter-year');
+    const location = document.getElementById('filter-location');
+    const entries = [...document.querySelectorAll('.entry')];
+    const count = document.getElementById('entry-count');
+    const empty = document.getElementById('entry-empty');
+
+    function update() {
+      let visible = 0;
+      for (const entry of entries) {
+        const matches = (!year.value || entry.dataset.year === year.value) &&
+          (!location.value || entry.dataset.location === location.value);
+        entry.hidden = !matches;
+        if (matches) visible++;
+      }
+      count.textContent = `游记 · ${visible} ${visible === 1 ? 'entry' : 'entries'}`;
+      empty.hidden = visible !== 0;
+    }
+
+    filters.hidden = false;
+    year.addEventListener('change', update);
+    location.addEventListener('change', update);
+  })();
+</script>
