@@ -10,7 +10,7 @@ A lightweight travel blog powered by [Jekyll](https://jekyllrb.com/) and the bui
 4. Choose the `main` branch and the `/ (root)` folder, then save.
 5. GitHub builds the site after each push. The first publication can take several minutes.
 
-For a project repository, your site is normally published at `https://YOUR-USERNAME.github.io/REPOSITORY-NAME/`. Set `baseurl: "/REPOSITORY-NAME"` in `_config.yml` for that setup. Keep `baseurl: ""` for a user site named `YOUR-USERNAME.github.io` or a custom domain.
+This repository is configured for `https://cedric-c.github.io/travel/`. If the repository name or domain changes, update `url` and `baseurl` in `_config.yml`.
 
 ## Add a post
 
@@ -48,4 +48,4 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Open `http://localhost:4000` in a browser.
+Open `http://localhost:4000/travel/` in a browser.
