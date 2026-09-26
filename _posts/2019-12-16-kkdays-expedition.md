@@ -5,7 +5,7 @@ title: "KKDay Outing in Xiulin Township"
 
 We went on a mountain excursion with KKDays. Our tour guide Roy was extremely memorable and I would very much enjoy going on another tour with him. 
 
-![Tunnel trains]({{ '/images/Train-in-Tunnel191216.jpeg' | relative_url }})
+![Tunnel trains]({{ '/images/Train-in-Tunnel-191216.jpeg' | relative_url }})
 
 The trains come and go like they are in a Ghibli movie. 
 
