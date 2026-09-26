@@ -26,6 +26,7 @@ Start it with front matter, then write normally in Markdown:
 ---
 layout: post
 title: "A day in Kyoto / 京都的一天"
+location: Kyoto
 ---
 
 ![A quiet lane in Kyoto]({{ '/images/kyoto-lane.jpg' | relative_url }})
@@ -34,6 +35,8 @@ English text here.
 
 中文写在这里。
 ```
+
+The home page filters entries by year (from the filename date) and location. Set `location` to the same place name across related posts. Posts without a location appear under **Unspecified**. Filters work together and are applied in the browser; posts remain visible if JavaScript is unavailable.
 
 ## Add photos from your phone
 
