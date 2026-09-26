@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arriving in Japan"
-location: Tokyo
+locations: [Tokyo, Japan]
 ---
 
 Made it to Tokyo. Jet lag also made it.
