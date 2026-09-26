@@ -14,6 +14,8 @@ From the hotel, I could see the harbour. In the mornings I would wait at the win
 
 Later, I wandered through the tech markets. There seemed to be an endless supply of electronics, and I loved getting lost among them just to see what I could find.
 
+![Huaqiang tech plaza with electronics shops across several floors]({{ '/images/huaqiang_tech_plaza-2023-10-23.jpeg' | relative_url }})
+
 ![Electronics at a Shenzhen tech market]({{ '/images/Shenzhen-tech-market-231024.jpeg' | relative_url }})
 
 I also visited a fancy mall with a skating rink inside it. An ice rink in the middle of a shopping trip was quite a sight.
