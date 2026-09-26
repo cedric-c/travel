@@ -1,4 +1,4 @@
-# Wandering Notes
+# Cédric Elsewhere
 
 A lightweight travel blog powered by [Jekyll](https://jekyllrb.com/) and the built-in GitHub Pages-compatible **Minima** theme.
 
