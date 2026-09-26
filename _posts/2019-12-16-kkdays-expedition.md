@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "KKDay Outing in Xiulin Township"
+location: Xiulin Township
 ---
 
 We went on a mountain excursion with KKDays. Our tour guide Roy was extremely memorable and I would very much enjoy going on another tour with him. 
