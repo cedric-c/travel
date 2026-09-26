@@ -1,0 +1,62 @@
+---
+---
+@import "minima";
+
+:root {
+  color-scheme: light;
+}
+
+html { scroll-behavior: smooth; }
+body { background: #f9f7f2; color: #2b342f; font-family: Georgia, "Noto Serif CJK SC", "Songti SC", serif; }
+a { color: #a34832; }
+a:hover, a:focus { color: #713522; text-decoration: underline; }
+::selection { background: #e9d1bf; }
+
+.site-header { background: #f9f7f2; border-top: 0; border-bottom: 1px solid #dfddd4; min-height: 76px; }
+.site-header .wrapper { display: flex; justify-content: space-between; align-items: center; min-height: 76px; }
+.site-title, .site-title:visited { color: #26352f; font-weight: bold; letter-spacing: -.055em; font-size: 25px; line-height: 1.3; }
+.site-nav { float: none; line-height: 1.3; }
+.site-nav .page-link { color: #48534a; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; }
+.page-content { padding: 0 0 70px; }
+.wrapper { max-width: 850px; padding-left: 28px; padding-right: 28px; }
+
+.intro { padding: 100px 0 104px; border-bottom: 1px solid #d8d8ce; }
+.intro-kicker { color: #a34832; font: 600 11px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .2em; text-transform: uppercase; }
+.intro-kicker span { margin: 0 10px; }
+.intro h1 { margin: 25px 0 24px; max-width: 780px; font-size: clamp(62px, 10vw, 112px); font-weight: normal; line-height: .98; letter-spacing: -.065em; }
+.intro h1 em { color: #a34832; font-weight: normal; }
+.intro p { max-width: 530px; margin: 0 0 31px; color: #59635b; font-size: 19px; line-height: 1.65; }
+.intro-link, .entry-read { font: 600 12px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .11em; text-transform: uppercase; text-decoration: none; }
+.intro-link span, .entry-read span { padding-left: 8px; }
+
+.entries { padding-top: 54px; }
+.section-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 28px; }
+.section-heading h2 { font-size: 34px; font-weight: normal; letter-spacing: -.035em; }
+.section-heading span, .entry-date { color: #7b8278; font: 500 11px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .13em; text-transform: uppercase; }
+.entry { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 26px; padding: 30px 0 34px; border-top: 1px solid #d8d8ce; }
+.entry-date { padding-top: 9px; }
+.entry h3 { margin: 0 0 8px; font-size: 32px; font-weight: normal; line-height: 1.2; letter-spacing: -.035em; }
+.entry h3 a, .entry h3 a:visited { color: #26352f; text-decoration: none; }
+.entry h3 a:hover, .entry h3 a:focus { color: #a34832; }
+.entry p { color: #667067; margin-bottom: 14px; }
+
+.post, .page { padding-top: 72px; }
+.post-title, .page-heading { font-size: clamp(42px, 7vw, 68px); font-weight: normal; letter-spacing: -.055em; line-height: 1.12; }
+.post-meta { font: 500 12px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+.post-content, .page-content .page { font-size: 18px; line-height: 1.8; }
+.post-content img { display: block; width: 100%; height: auto; border-radius: 3px; margin: 30px 0; }
+.site-footer { background: #efeee7; border-top: 1px solid #dfddd4; color: #687168; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 13px; }
+.footer-heading { color: #26352f; font-family: Georgia, "Noto Serif CJK SC", "Songti SC", serif; }
+
+@media (max-width: 600px) {
+  .wrapper { padding-left: 20px; padding-right: 20px; }
+  .site-header .wrapper { display: block; }
+  .site-nav { float: right; margin-top: 16px; }
+  .intro { padding: 80px 0 82px; }
+  .intro h1 { font-size: clamp(58px, 13vw, 78px); }
+  .intro p { font-size: 17px; }
+  .entry { display: block; }
+  .entry-date { margin-bottom: 14px; }
+  .section-heading h2 { font-size: 30px; }
+  .post, .page { padding-top: 50px; }
+}

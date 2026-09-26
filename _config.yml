@@ -1,13 +1,10 @@
 title: Wandering Notes
 description: Travel notes, one place at a time.
-url: ""
-baseurl: ""
+url: "https://cedric-c.github.io"
+baseurl: "/travel"
 
 theme: minima
 lang: en
-
-author:
-  name: Your Name
 
 header_pages:
   - about.md

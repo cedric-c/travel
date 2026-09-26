@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<section class="intro" aria-labelledby="intro-title">
+  <div class="intro-kicker">A journal from the road <span aria-hidden="true">✦</span> 路上的日记</div>
+  <h1 id="intro-title">A little further<br><em>every day.</em></h1>
+  <p>Photographs, passing thoughts, and small discoveries — written in English and Mandarin as I go.</p>
+  <a class="intro-link" href="#entries">Read the latest notes <span aria-hidden="true">↗</span></a>
+</section>
+
+<section class="entries" id="entries" aria-labelledby="entries-title">
+  <div class="section-heading">
+    <h2 id="entries-title">Field notes</h2>
+    <span>游记 · {{ site.posts.size }} {% if site.posts.size == 1 %}entry{% else %}entries{% endif %}</span>
+  </div>
+
+  {% for post in site.posts %}
+  <article class="entry">
+    <div class="entry-date"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %Y' }}</time></div>
+    <div class="entry-body">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+      {% if post.excerpt %}<p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 170 }}</p>{% endif %}
+      <a class="entry-read" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">Read entry <span aria-hidden="true">→</span></a>
+    </div>
+  </article>
+  {% endfor %}
+</section>
