@@ -25,18 +25,29 @@ layout: default
     <div class="entry-filter">
       <label for="filter-location">Location</label>
       <select id="filter-location"><option value="">All locations</option>
-        {% assign locations = site.posts | map: 'location' | compact | uniq | sort %}
+        {% assign locations = '' | split: ',' %}
+        {% assign has_unlocated = false %}
+        {% for post in site.posts %}
+          {% if post.locations and post.locations.size > 0 %}
+            {% assign locations = locations | concat: post.locations %}
+          {% else %}
+            {% assign has_unlocated = true %}
+          {% endif %}
+        {% endfor %}
+        {% assign locations = locations | uniq | sort %}
         {% for location in locations %}<option value="{{ location | escape }}">{{ location | escape }}</option>{% endfor %}
-        {% assign unlocated = site.posts | where_exp: 'post', 'post.location == nil' %}
-        {% if unlocated.size > 0 %}<option value="__unspecified__">Unspecified</option>{% endif %}
+        {% if has_unlocated %}<option value="__unspecified__">Unspecified</option>{% endif %}
       </select>
     </div>
   </div>
   <p class="entry-empty" id="entry-empty" hidden>No entries match these filters.</p>
 
   {% for post in site.posts %}
-  <article class="entry" data-year="{{ post.date | date: '%Y' }}" data-location="{{ post.location | default: '__unspecified__' | escape }}">
-    <div class="entry-date"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %Y' }}</time></div>
+  <article class="entry" data-year="{{ post.date | date: '%Y' }}" data-locations="{{ post.locations | jsonify | escape }}">
+    <div class="entry-date">
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %Y' }}</time>
+      {% if post.locations and post.locations.size > 0 %}<span class="entry-location">{{ post.locations | join: ' · ' | escape }}</span>{% endif %}
+    </div>
     <div class="entry-body">
       <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
       {% if post.excerpt %}<p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 170 }}</p>{% endif %}
@@ -57,8 +68,10 @@ layout: default
     function update() {
       let visible = 0;
       for (const entry of entries) {
+        const entryLocations = JSON.parse(entry.dataset.locations || 'null') || [];
         const matches = (!year.value || entry.dataset.year === year.value) &&
-          (!location.value || entry.dataset.location === location.value);
+          (!location.value || (location.value === '__unspecified__'
+            ? entryLocations.length === 0 : entryLocations.includes(location.value)));
         entry.hidden = !matches;
         if (matches) visible++;
       }
