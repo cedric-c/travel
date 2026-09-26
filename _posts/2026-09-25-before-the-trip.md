@@ -11,8 +11,14 @@ First stop: Tokyo.
 
 ---
 
-十月份，我要去东京、香港和重庆。
+十月份，我要去东京、香港和重庆。  
+*Shí yuèfèn, wǒ yào qù Dōngjīng, Xiānggǎng hé Chóngqìng.*
 
-我正在学中文。
+我正在学中文。  
+*Wǒ zhèngzài xué Zhōngwén.*
 
-我想去重庆吃重庆小吃。我想坐长江索道。
+我想去重庆吃重庆小吃。  
+*Wǒ xiǎng qù Chóngqìng chī Chóngqìng xiǎochī.*
+
+我想坐长江索道。  
+*Wǒ xiǎng zuò Chángjiāng suǒdào.*
