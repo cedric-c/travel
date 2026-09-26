@@ -12,6 +12,10 @@ From the hotel, I could see the harbour. In the mornings I would wait at the win
 
 ![Harbour view from the hotel in Shenzhen]({{ '/images/Shenzhen-hotel-view-231025.jpeg' | relative_url }})
 
+I could also take a morning walk along the dock near the hotel. The ocean seemed to go on forever. It was a lovely way to start the day, looking out over the water.
+
+![Morning view across the water from the dock near the Shenzhen hotel]({{ '/images/hotel_morning_walk-2023-10-23.jpeg' | relative_url }})
+
 I went up Kingkey 101, and the elevator was strikingly fast. At the top, I could look over Shenzhen's cityscape and see parts of Hong Kong in the distance. From up there, the buildings, roads, and hills seemed to stretch in every direction.
 
 ![View over Shenzhen from Kingkey 101]({{ '/images/kingkey101-2023-10-23.jpeg' | relative_url }})
