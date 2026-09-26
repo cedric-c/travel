@@ -42,6 +42,7 @@ a:hover, a:focus { color: #713522; text-decoration: underline; }
 .section-heading span, .entry-date { color: #7b8278; font: 500 11px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .13em; text-transform: uppercase; }
 .entry { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 26px; padding: 30px 0 34px; border-top: 1px solid #d8d8ce; }
 .entry-date { padding-top: 9px; }
+.entry-location { display: block; margin-top: 7px; color: #a34832; letter-spacing: .08em; }
 .entry h3 { margin: 0 0 8px; font-size: 32px; font-weight: normal; line-height: 1.2; letter-spacing: -.035em; }
 .entry h3 a, .entry h3 a:visited { color: #26352f; text-decoration: none; }
 .entry h3 a:hover, .entry h3 a:focus { color: #a34832; }
