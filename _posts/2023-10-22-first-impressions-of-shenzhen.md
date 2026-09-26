@@ -12,6 +12,10 @@ From the hotel, I could see the harbour. In the mornings I would wait at the win
 
 ![Harbour view from the hotel in Shenzhen]({{ '/images/Shenzhen-hotel-view-231025.jpeg' | relative_url }})
 
+I went up Kingkey 101, and the elevator was strikingly fast. At the top, I could look over Shenzhen's cityscape and see parts of Hong Kong in the distance. From up there, the buildings, roads, and hills seemed to stretch in every direction.
+
+![View over Shenzhen from Kingkey 101]({{ '/images/kingkey101-2023-10-23.jpeg' | relative_url }})
+
 Later, I wandered through the tech markets. There seemed to be an endless supply of electronics, and I loved getting lost among them just to see what I could find.
 
 ![Huaqiang tech plaza with electronics shops across several floors]({{ '/images/huaqiang_tech_plaza-2023-10-23.jpeg' | relative_url }})
