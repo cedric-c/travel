@@ -1,0 +1,16 @@
+title: Wandering Notes
+description: Travel notes, one place at a time.
+url: ""
+baseurl: ""
+
+theme: minima
+lang: en
+
+author:
+  name: Your Name
+
+header_pages:
+  - about.md
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
