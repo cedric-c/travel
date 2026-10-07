@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ottawa Departure and Tokyo Arrival / 离开渥太华，到东京"
+locations: [Kichijoji, Tokyo, Japan]
 ---
 
 The flight from Ottawa to Newark went off without a hitch. Two-ish hours in the air, with a sunrise thrown in:
