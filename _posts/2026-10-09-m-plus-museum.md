@@ -36,7 +36,7 @@ Girls in dresses. This one was particularly cool because, up close, the images a
 
 ![Nansheng Restaurant artwork]({{ '/images/hkmp4-2026-10-09.jpeg' | relative_url }})
 
-Now this is an installation I'm familiar with. In fact, I'm a bit of an artist myself. I've got something remarkably similar at home.
+Now this is an installation I'm familiar with. In fact, I'm a bit of an artist myself. I've got something remarkably similar at home: a completely dark room with nothing visible except the LEDs. Getting a decent photo of that is another story, though. I've been putting off buying a camera for low-light photography for ages. Maybe I'll finally get around to it before my next trip.
 
 ![A surprisingly familiar installation]({{ '/images/hkmp8-2026-10-09.jpeg' | relative_url }})
 
