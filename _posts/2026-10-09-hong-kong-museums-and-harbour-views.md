@@ -20,7 +20,7 @@ My watch went rogue and told me to get off the bus a little too late. I ended up
 
 ![Approaching M+ Museum on foot]({{ '/images/hkd1_museumWalk3-2026-10-09.jpeg' | relative_url }})
 
-I spent most of the morning and early afternoon inside M+. There's enough to say about it that it got [its own post]({% post_url 2026-10-09-m-plus-museum %}).
+I spent most of the morning and early afternoon inside M+. There's enough to say about it that it got [its own post]({{ '/2026/10/09/m-plus-museum/' | relative_url }}).
 
 After the museum, I came across a skating rink inside a mall. I'm starting to think you can judge a top-tier city by how many skating rinks it has inside its malls. I saw the same thing in Wuhan.
 
