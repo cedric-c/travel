@@ -8,7 +8,7 @@ description: "Art, design, architecture, and a little Mandarin practice at Hong 
 
 Visited M+ today. Easily one of the better museums I've been to.
 
-One thing I really appreciated was that the exhibits had explanations in both English and Chinese. Unlike some of the museums I visited in Japan, I could actually understand what I was looking at without having to guess. Turns out knowing what the art is about makes the experience better.
+One thing I really appreciated was that the exhibits had explanations in both English and Chinese. Unlike some of the museums I visited in Japan, I could actually understand what I was looking at without having to guess. Turns out knowing what the art is about makes the experience better. Who would've thought?
 
 There was plenty to see, and the building itself is beautiful, with some amazing views of the Hong Kong skyline. The coffee and mushroom bread were expensive, though. Apparently even art appreciation has a surcharge.
 
