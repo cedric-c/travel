@@ -2,6 +2,8 @@
 layout: post
 title: "M+ Museum"
 locations: [Hong Kong, China]
+image: /travel/images/hkmp_exterior-2026-10-09.jpeg
+description: "Art, design, architecture, and a little Mandarin practice at Hong Kong's M+ Museum."
 ---
 
 Today I visited M+, and what a museum it is.
