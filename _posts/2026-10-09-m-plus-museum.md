@@ -22,14 +22,6 @@ So yeah, I'm currently sitting at about five to ten seconds of conversational au
 
 ## A few favourites
 
-There was a really fun exhibit about human-centred design: how we make everyday objects and experiences easier to use. For instance, how much thought have you put into the way you cut a sandwich? Well, the people behind *Design Ah!* have you covered.
-
-![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw1-2026-10-09.jpeg' | relative_url }})
-
-![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw2-2026-10-09.jpeg' | relative_url }})
-
-![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw3-2026-10-09.jpeg' | relative_url }})
-
 An entire wall of erotic Post-it notes. Not what I expected, but certainly memorable.
 
 ![Wall of intimate illustrated notes]({{ '/images/hkmp5-2026-10-09.jpeg' | relative_url }})
@@ -77,5 +69,15 @@ The prettiest room in the museum, though, is easily the one overlooking Victoria
 ![Views of Victoria Harbour from M+]({{ '/images/hkmpb1-2026-10-09.jpeg' | relative_url }})
 
 ![Views of Victoria Harbour from M+]({{ '/images/hkmpb2-2026-10-09.jpeg' | relative_url }})
+
+## Design Ah!
+
+There was a really fun exhibit about human-centred design: how we make everyday objects and experiences easier to use. For instance, how much thought have you put into the way you cut a sandwich? Well, the people behind *Design Ah!* have you covered.
+
+![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw1-2026-10-09.jpeg' | relative_url }})
+
+![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw2-2026-10-09.jpeg' | relative_url }})
+
+![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw3-2026-10-09.jpeg' | relative_url }})
 
 All in all, M+ was one of my favourite museum visits on this trip so far. Great exhibits, a beautiful building, and a few more seconds of Mandarin practice. Not a bad day.
