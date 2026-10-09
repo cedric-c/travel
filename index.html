@@ -48,7 +48,7 @@ layout: default
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %Y' }}</time>
       {% if post.locations and post.locations.size > 0 %}<span class="entry-location">{{ post.locations | join: ' · ' | escape }}</span>{% endif %}
     </div>
-    <div class="entry-body">
+    <div class="entry-content">\n      {% if post.image %}\n      <a class="entry-thumbnail" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">\n        <img src="{{ post.image | relative_url }}" alt="" loading="lazy" decoding="async" width="112" height="112">\n      </a>\n      {% endif %}\n      <div class="entry-body">
       <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
       {% if post.excerpt %}<p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 170 }}</p>{% endif %}
       <a class="entry-read" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">Read entry <span aria-hidden="true">→</span></a>
