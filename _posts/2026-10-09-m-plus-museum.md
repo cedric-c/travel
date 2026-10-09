@@ -14,7 +14,7 @@ There was plenty to see, and the building itself is beautiful, with some amazing
 
 It's also ridiculously hot outside. It was already 27°C at 10 AM. We'll see how well I handle the heat, and how appreciative my fellow commuters are of my smell. Don't worry, I brought déo.
 
-Another thing I liked about M+ was that relatively little of what I saw fell into my personal category of *fake art*. What's fake art? Well, imagine you're making a piece, get 80% of the way there, then decide that's good enough. Or you knock over a salt shaker, spill the salt, and declare the accident an installation. That's fake art. A highly scientific classification, obviously.
+Another thing I liked about M+ was that relatively little of what I saw fell into my personal category of *fake art*. What's fake art? My rule is simple: if someone with my pedestrian artistic abilities could recreate 80% of a piece, I'm calling it fake art. If I can put a blank white canvas on a wall and call it a masterpiece, what exactly makes it art? Or you knock over a salt shaker, spill the salt, and declare the accident an installation. That's fake art. A highly scientific classification, obviously.
 
 I even got to practice my Mandarin with one of the museum staff. She told me she didn't speak English—something along the lines of “wǒ bù shuō Yīngwén” (我不说英文). I had to ask her to slow things down to 0.5× speed with “nǐ kěyǐ shuō màn yìdiǎn ma?” (你可以说慢一点吗？). Her eyes lit up. *This lǎowài speaks Mandarin!*
 
