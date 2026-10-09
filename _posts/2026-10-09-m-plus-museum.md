@@ -6,7 +6,7 @@ image: /images/hkmp_exterior-2026-10-09.jpeg
 description: "Art, design, architecture, and a little Mandarin practice at Hong Kong's M+ Museum."
 ---
 
-Today I visited M+, and what a museum it is.
+Visited M+ today. Easily one of the better museums I've been to.
 
 One thing I really appreciated was that the exhibits had explanations in both English and Chinese. Unlike some of the museums I visited in Japan, I could actually understand what I was looking at without having to guess. Turns out knowing what the art is about makes the experience better. Who would've thought?
 
@@ -18,9 +18,9 @@ It's also ridiculously hot outside. It was already 27°C at 10 AM. We'll see how
 
 Another thing I liked about M+ was that relatively little of what I saw fell into my personal category of *fake art*. What's fake art? My rule is simple: if someone with my pedestrian artistic abilities could recreate 80% of a piece, I'm calling it fake art. If I can put a blank white canvas on a wall and call it a masterpiece, what exactly makes it art? Or knock over a salt shaker, spill the salt, and declare the accident an installation. A highly scientific classification, obviously.
 
-Then again, maybe the art isn't in the piece itself, but in the explanation behind it—how you justify its existence and convince someone that it deserves to be called art. I suppose that's a form of art in its own right.
+Although, maybe the art is actually in how you justify the piece and explain why it's considered art in the first place? I guess that's a form of art too.
 
-Speaking of explanations, I also got to put my Mandarin to the test with one of the museum staff. She told me she didn't speak English—something along the lines of “wǒ bù shuō Yīngwén” (我不说英文). I had to ask her to slow things down to 0.5× speed with “nǐ kěyǐ shuō màn yìdiǎn ma?” (你可以说慢一点吗？). Her eyes lit up. *This lǎowài speaks Mandarin!*
+I also got to practice some Mandarin with one of the museum staff. She told me she didn't speak English—something along the lines of “wǒ bù shuō Yīngwén” (我不说英文). I had to ask her to slow things down to 0.5× speed with “nǐ kěyǐ shuō màn yìdiǎn ma?” (你可以说慢一点吗？). Her eyes lit up. *This lǎowài speaks Mandarin!*
 
 So yeah, I'm currently sitting at about five to ten seconds of conversational autonomy. Hopefully I can squeeze a few more seconds out of my brain before leaving Hong Kong.
 
@@ -84,4 +84,4 @@ There was a really fun exhibit about human-centred design: how we make everyday 
 
 ![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw3-2026-10-09.jpeg' | relative_url }})
 
-All in all, M+ was one of my favourite museum visits on this trip so far. Great exhibits, a beautiful building, and a few more seconds of Mandarin practice. Not a bad day.
+M+ is easily one of my favourite museums so far. Would definitely recommend it if you're in Hong Kong.
