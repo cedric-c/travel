@@ -18,7 +18,7 @@ Another thing I liked about M+ was that relatively little of what I saw fell int
 
 Then again, maybe the art isn't in the piece itself, but in the explanation behind it—how you justify its existence and convince someone that it deserves to be called art. I suppose that's a form of art in its own right.
 
-I even got to practice my Mandarin with one of the museum staff. She told me she didn't speak English—something along the lines of “wǒ bù shuō Yīngwén” (我不说英文). I had to ask her to slow things down to 0.5× speed with “nǐ kěyǐ shuō màn yìdiǎn ma?” (你可以说慢一点吗？). Her eyes lit up. *This lǎowài speaks Mandarin!*
+Speaking of explanations, I also got to put my Mandarin to the test with one of the museum staff. She told me she didn't speak English—something along the lines of “wǒ bù shuō Yīngwén” (我不说英文). I had to ask her to slow things down to 0.5× speed with “nǐ kěyǐ shuō màn yìdiǎn ma?” (你可以说慢一点吗？). Her eyes lit up. *This lǎowài speaks Mandarin!*
 
 So yeah, I'm currently sitting at about five to ten seconds of conversational autonomy. Hopefully I can squeeze a few more seconds out of my brain before leaving Hong Kong.
 
