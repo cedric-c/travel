@@ -2,6 +2,7 @@
 layout: post
 title: "A Night Out at the Wuhan Mall"
 locations: [Wuhan, China]
+image: /images/going-to-wuhan-mall1-2023-10-29.jpeg
 ---
 
 It was around 8:30 p.m. on the way to the mall, and the streets were still full of people. By Ottawa standards, it felt late for a crowd like that. Vendors lined the way, including one selling fresh durian at a price I could hardly believe by Ottawa standards.

@@ -2,6 +2,7 @@
 layout: post
 title: "Yellow Crane Tower After Dark"
 locations: [Wuhan, China]
+image: /images/yellow-crane-tower2-2023-10-27.jpeg
 ---
 
 The approach to Yellow Crane Tower was almost as memorable as the tower itself. At the base, cooler shades of purple and green lit the paths and water. They looked lovely against the vivid red lanterns and the bright reds waiting at the tower.

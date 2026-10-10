@@ -2,6 +2,7 @@
 layout: post
 title: "Songde Village in the Hills"
 locations: [Songde Village, Taiwan, China]
+image: /images/taiwan-songde-village2-2019-12-22.jpeg
 ---
 
 Songde Village felt like a little town out of *Spirited Away*. Houses climbed the mountainside, stairways wound up and down between them, and each turn seemed to reveal another nook to explore. It was an incredibly charming place to get lost for a while.
