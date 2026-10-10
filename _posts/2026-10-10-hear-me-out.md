@@ -24,13 +24,19 @@ I was introduced to this rather unusual combination by my grandfather some 20 ye
 
 I’d developed a habit of waking up rather late every morning, so breakfast would often turn into lunch. My grandfather would always offer to make me something to eat.
 
+While he prepared breakfast, I’d head upstairs to his office and settle into the La-Z-Boy in front of the little television. On the office door was a bronze-looking plaque with the word “Private” written on it.
+
 One morning, he asked if I wanted jam on toast. Sure, why not?
 
 Then he asked if I wanted cheese on it.
 
 Cheese? On jam toast? What an odd combination.
 
-But I figured I’d give it a try. And, well, it worked. So much so that I ended up having it every morning for the rest of the week.
+But I figured I’d give it a try.
+
+A little later, he came upstairs with a tray carrying my jam-and-cheese sandwich and a glass of milk.
+
+And, well, it worked. The sweetness of the jam contrasted exceptionally well with the saltiness of the cheese. So much so that I ended up having it every morning for the rest of the week.
 
 Then there’s the idea of eating noodles for breakfast. Something I originally found rather odd, until I discovered Wuhanese hot-dry noodles. Nothing quite dispels that notion like a good bowl of 热干面 (règānmiàn).
 
