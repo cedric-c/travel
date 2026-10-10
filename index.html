@@ -2,6 +2,37 @@
 layout: default
 ---
 
+<style>
+  /* Kept with the index so its layout is not dependent on a cached main.css. */
+  .entries .entry-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 20px;
+    min-width: 0;
+  }
+  .entries .entry-thumbnail {
+    display: block;
+    flex: 0 0 112px;
+    width: 112px;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+  .entries .entry-thumbnail img {
+    display: block;
+    width: 112px;
+    height: 112px;
+    max-width: none;
+    object-fit: cover;
+  }
+  .entries .entry-body { flex: 1 1 0; min-width: 0; }
+  @media (max-width: 600px) {
+    .entries .entry-content { gap: 14px; }
+    .entries .entry-thumbnail { flex-basis: 88px; width: 88px; }
+    .entries .entry-thumbnail img { width: 88px; height: 88px; }
+  }
+</style>
+
 <section class="intro" aria-labelledby="intro-title">
   <div class="intro-kicker">A journal from the road <span aria-hidden="true">✦</span> 路上的日记</div>
   <h1 id="intro-title">A little further<br><em>every day.</em></h1>
