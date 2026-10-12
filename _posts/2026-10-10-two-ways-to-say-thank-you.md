@@ -18,7 +18,7 @@ Ms. Yoyo from the hotel had recommended a breakfast spot, so I put it to the tes
 
 I'm finally ready to try my hand at ordering when the server approaches, hands me a receipt with a QR code, and says, “Order here.”
 
-Had technology gone too far? Had human interaction been reduced to a receipt? Why does this milk tea taste so good?
+Had technology gone too far? Had human interaction been reduced to an endocrine-disrupting slip of paper? Why does this milk tea taste so good?
 
 Breakfast was good. My ability to judge how much breakfast I needed was less good.
 
