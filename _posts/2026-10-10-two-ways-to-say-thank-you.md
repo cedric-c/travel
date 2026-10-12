@@ -148,6 +148,8 @@ Of course, she made the rookie mistake of biting directly into a hot pepper. We'
 
 Maybe you get to experience something for the first time twice: once yourself, and again through someone else's eyes. I hadn't expected Indian food to be one of my favourite memories of Hong Kong, but here we are.
 
+Leo also treated me to a beer and a tart, and covered the cab ride back down. We'd only met a few hours earlier.
+
 Seeki also taught me my first words in Cantonese: two common ways to say thank you, depending on what you're thanking someone for.
 
 - **唔該 (*m4 goi1*)** — for help or service.
@@ -155,7 +157,7 @@ Seeki also taught me my first words in Cantonese: two common ways to say thank y
 
 The pronunciation is written in Jyutping, with the numbers marking the tones. Different from the Mandarin Pinyin I've been learning.
 
-A useful lesson after a day like this. I'd started the morning trying to order breakfast through a QR code and ended it sharing dinner with people I'd only just met.
+A useful lesson after all that generosity. I'd started the morning trying to order breakfast through a QR code and ended it sharing dinner with people I'd only just met.
 
 So, to Minh, Leo, and Seeki:
 
