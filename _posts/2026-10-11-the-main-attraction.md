@@ -47,6 +47,8 @@ Beyond the village stands an impressive traditional Chinese gateway marking the 
 
 ![Ngong Ping village gateway]({{ '/images/ngong1-2026-10-11.jpeg' | relative_url }})
 
+![Monastery]({{ '/images/temple1-2026-10-11.jpeg' | relative_url }})
+
 A short walk brings you to a large circular plaza, where the path splits between Po Lin Monastery and the staircase leading up to the Buddha.
 
 ![Big Buddha from the plaza]({{ '/images/buddha2-2026-10-11.jpeg' | relative_url }})
