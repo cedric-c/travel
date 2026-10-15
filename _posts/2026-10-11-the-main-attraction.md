@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Main Attraction"
+image: /images/buddha1-2026-10-11.jpeg
 locations: [Hong Kong, China]
 ---
 
