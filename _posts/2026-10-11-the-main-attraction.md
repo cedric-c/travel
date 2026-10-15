@@ -5,7 +5,7 @@ image: /images/buddha1-2026-10-11.jpeg
 locations: [Hong Kong, China]
 ---
 
-Another morning, another breakfast recommendation from Yoyo. When I mentioned my plans to take the train to Chongqing, she casually remarked that she'd flown there instead. Not exactly a ringing endorsement of my transportation choice.
+Another morning, another breakfast recommendation from Yoyo. When I mentioned my plans to take the train to Chongqing, she told me she'd taken the train there herself but flown back. For reasons. Apparently, the train was worth trying once, but not necessarily twice.
 
 Not wanting to risk a suboptimal experience, I decided to upgrade my seat. China's high-speed trains offer second class, first class, and business class—which, confusingly enough, is the actual first-class experience. At nearly five times the price of second class and twice that of first, business was a little difficult to justify. First class it was.
 
