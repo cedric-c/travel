@@ -5,7 +5,13 @@ image: /images/buddha1-2026-10-11.jpeg
 locations: [Hong Kong, China]
 ---
 
-Another morning, another breakfast recommendation from Yoyo. She also helped me upgrade my seat on the train to Chongqing, although not before telling me she would have flown instead. Apparently, my decision to take the train was questionable enough to warrant an intervention.
+Another morning, another breakfast recommendation from Yoyo. When I mentioned my plans to take the train to Chongqing, she casually remarked that she'd flown there instead. Not exactly a ringing endorsement of my transportation choice.
+
+Not wanting to risk a suboptimal experience, I decided to upgrade my seat. China's high-speed trains offer second class, first class, and business class—which, confusingly enough, is the actual first-class experience. At nearly five times the price of second class and twice that of first, business was a little difficult to justify. First class it was.
+
+As it turns out, that decision paid off in a way I couldn't have anticipated. I met someone genuinely interesting along the way, and I'm rather glad I didn't choose a different seat.
+
+But more on that later.
 
 Breakfast was excellent. The soup was savoury without being overly salty, the meal had a good amount of protein, and even the bread was lightly seasoned. The eggs had these beautiful deep-orange yolks, quite different from the pale yellow ones I'm used to seeing in Canada. As for the coffee, every sip felt like the first.
 
