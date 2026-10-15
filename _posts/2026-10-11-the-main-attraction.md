@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Main Attraction"
-locations: [Hong Kong]
+locations: [Hong Kong, China]
 ---
 
 Another morning, another breakfast recommendation from Yoyo. She also helped me upgrade my seat on the train to Chongqing, although not before telling me she would have flown instead. Apparently, my decision to take the train was questionable enough to warrant an intervention.
