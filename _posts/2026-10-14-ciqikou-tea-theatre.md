@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2026-10-14 18:00:00 +0800
 title: "Ciqikou: Tea, Theatre, and a Pricey Lesson"
 locations: [Chongqing, China]
 image: /images/fire1-2026-10-14.jpeg
