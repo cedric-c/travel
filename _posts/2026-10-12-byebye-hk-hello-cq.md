@@ -55,7 +55,7 @@ No way, José.
 
 *I’m Canadian!*
 
-Anyway, he was cool about it. So was I. Diplomatic relations remained intact.
+Anyway, he was cool about it. So was I. No harm, no foul.
 
 At some point, I told him:
 
@@ -81,7 +81,7 @@ It’s the tones, isn’t it?
 
 The seven-hour train ride to Chongqing, however, turned out to be one of the highlights of the day, and I have Finn to thank for that.
 
-Finn is from Xi’an, and we spent most of the journey talking about just about everything: love, relationships, money, family, and life in general. He had plenty of entertaining stories, interesting perspectives, and genuinely good advice.
+Finn is from Xi’an, and we spent most of the journey talking about just about everything: love, relationships, money, family, and life in general. We exchanged stories, cracked jokes, and somehow managed to fill seven hours without running out of things to talk about.
 
 
 ![Writing in my journal aboard the train]({{ '/images/train-finn-2026-10-12.jpeg' | relative_url }})
