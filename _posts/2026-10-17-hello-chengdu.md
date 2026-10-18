@@ -86,7 +86,7 @@ I even ran into some Australians getting their ears cleaned by roadside vendors.
 
 Anyway, there I was, walking down the street, when person after person started approaching me, inviting me in for drinks.
 
-"Beer! Beer!"
+"Píjiǔ! Píjiǔ! (啤酒！啤酒！)"
 
 I wasn’t particularly interested, having already stopped for a drink at a bar recommended to me back in Chongqing.
 
