@@ -38,7 +38,7 @@ Jackpot! Second floor. Luggage and travel accessories. Three stalls, two of whic
 
 Now for the million-dollar question.
 
-"Yì bǎi sì shí wǔ kuài (一百四十五块)."
+"Yì bǎi sì shí wǔ kuài (145块)."
 
 Hang on.
 
