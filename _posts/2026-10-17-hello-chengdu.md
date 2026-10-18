@@ -62,7 +62,7 @@ She recommended two dishes:
 
 > 成都的豌豆面和担担面都比较出名。
 > 
-> Chengdu’s pea noodles (*wāndòu miàn*) and dan dan noodles (*dàndàn miàn) are both quite famous.
+> Chengdu’s pea noodles (*wāndòu miàn*) and dan dan noodles (*dàndàn miàn*) are both quite famous.
 
 Pea noodles it was.
 
