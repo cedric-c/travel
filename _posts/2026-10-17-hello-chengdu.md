@@ -50,7 +50,7 @@ Yeeeeaaahhhh, nope.
 
 Definitely not happening.
 
-After searching what felt like half of Chengdu, I had finally found a luggage lock, only to discover that the woman selling it apparently had a distant relative working in the Ciqikou tea market.
+After searching what felt like half of Chengdu, I had finally found a luggage lock, only to discover that the woman selling it apparently had a distant relative working in the [Ciqikou tea market]({% post_url 2026-10-14-ciqikou-tea-theatre %}).
 
 "Tài guì le (太贵了)."
 
