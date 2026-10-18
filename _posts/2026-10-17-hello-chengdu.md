@@ -38,7 +38,7 @@ Jackpot! Second floor. Luggage and travel accessories. Three stalls, two of whic
 
 Now for the million-dollar question.
 
-"Yì bǎi sì shí wǔ kuài."
+"Yì bǎi sì shí wǔ kuài (一百四十五块)."
 
 Hang on.
 
@@ -52,7 +52,7 @@ Definitely not happening.
 
 After searching what felt like half of Chengdu, I had finally found a luggage lock, only to discover that the woman selling it apparently had a distant relative working in the Ciqikou tea market.
 
-"Tài guì le."
+"Tài guì le (太贵了)."
 
 Needless to say, I did not buy it.
 
@@ -100,11 +100,11 @@ That last one is especially useful.
 
 I’d been walking around for a good 15 to 20 minutes at this point, being approached by one person after another. By now, I had the routine down.
 
-"Bú yòng, xièxie."
+"Bú yòng, xièxie (不用，谢谢)."
 
-"Bú yòng, xièxie."
+"Bú yòng, xièxie (不用，谢谢)."
 
-"Bú yòng, xièxie."
+"Bú yòng, xièxie (不用，谢谢)."
 
 Then another guy approaches me.
 
@@ -112,7 +112,7 @@ Then another guy approaches me.
 
 And you know what my tired brain decides to do?
 
-"Wǒ tīng bù dǒng."
+"Wǒ tīng bù dǒng (我听不懂)."
 
 That’s right.
 
