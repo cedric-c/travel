@@ -12,7 +12,7 @@ Although, to be fair, there’s usually a sweet citrus syrup thrown into the mix
 
 I was first introduced to this rather peculiar concoction some three years ago, of all places, at a KFC. Not exactly where you’d expect to discover your next favourite coffee drink.
 
-![My first espresso tonic]({{ '/images/kcoffee-2024-09-03-2.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/kcoffee-2024-09-03-2.jpeg" alt="My first espresso tonic" article=true %}
 
 But it worked, and I’ve been a fan ever since.
 
