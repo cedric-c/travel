@@ -8,9 +8,9 @@ description: "A morning in Kowloon, a climb up Victoria Peak, and an unexpectedl
 
 I started the day with a morning stroll through Kowloon Park. People were doing what I think was tai chi, judging by what I remember from my time in Taiwan. A calm start to the day, with a few pictures to capture the ambiance.
 
-![A pond and pavilion in Kowloon Park]({{ '/images/kowloon_park1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/kowloon_park1-2026-10-10.jpeg" alt="A pond and pavilion in Kowloon Park" article=true %}
 
-![A cat resting beside the water in Kowloon Park]({{ '/images/kowloon_park2-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/kowloon_park2-2026-10-10.jpeg" alt="A cat resting beside the water in Kowloon Park" article=true %}
 
 ## Breakfast, with limited human interaction
 
@@ -32,47 +32,47 @@ It's like they knew I couldn't restrain myself.
 
 After breakfast, I walked to the Hong Kong Palace Museum, across the highway from [M+]({{ '/2026/10/09/m-plus-museum/' | relative_url }}).
 
-![The Hong Kong Palace Museum across the road]({{ '/images/museum1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/museum1-2026-10-10.jpeg" alt="The Hong Kong Palace Museum across the road" article=true %}
 
-![Cranes along the harbour on the walk to the museum]({{ '/images/museum2-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/museum2-2026-10-10.jpeg" alt="Cranes along the harbour on the walk to the museum" article=true %}
 
-![The Palace Museum from below]({{ '/images/museum3-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/museum3-2026-10-10.jpeg" alt="The Palace Museum from below" article=true %}
 
-![The harbour and skyline beside the museum]({{ '/images/museum4-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/museum4-2026-10-10.jpeg" alt="The harbour and skyline beside the museum" article=true %}
 
-![The waterfront outside the museum café]({{ '/images/cafe1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/cafe1-2026-10-10.jpeg" alt="The waterfront outside the museum café" article=true %}
 
 Inside was a mix of contemporary “cool art” and historical pieces, with a special exhibition on jewellery. Here are a few of my favourites.
 
 This was probably the most mesmerizing piece I saw. It reminded me of images of the cosmic microwave background: the oldest light we can observe in the universe. I kept looking between the whole thing and the details.
 
-![A colourful installation that reminded me of the cosmic microwave background]({{ '/images/cosmic1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/cosmic1-2026-10-10.jpeg" alt="A colourful installation that reminded me of the cosmic microwave background" article=true %}
 
-![A closer look at the installation's colours and textures]({{ '/images/cosmic2-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/cosmic2-2026-10-10.jpeg" alt="A closer look at the installation's colours and textures" article=true %}
 
 Another room felt like stepping into a comic book. Really neat.
 
-![A room surrounded by comic panels]({{ '/images/comic1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/comic1-2026-10-10.jpeg" alt="A room surrounded by comic panels" article=true %}
 
 This is another museum where the building deserves as much attention as what's inside it.
 
-![Glass and reflections at the Palace Museum]({{ '/images/architecture1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/architecture1-2026-10-10.jpeg" alt="Glass and reflections at the Palace Museum" article=true %}
 
-![The museum's ceiling and interior architecture]({{ '/images/architecture3-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/architecture3-2026-10-10.jpeg" alt="The museum's ceiling and interior architecture" article=true %}
 
 And then there are the people outside, who will probably never know they've ended up in this blog post.
 
-![People walking along the waterfront, seen from above]({{ '/images/architecture2-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/architecture2-2026-10-10.jpeg" alt="People walking along the waterfront, seen from above" article=true %}
 
 The colour in this hanging screen stopped me in my tracks. Cyan? Teal? Whatever you call it, it was incredibly vivid. The label identified it as *Hanging screen with landscape*, from the Qing dynasty, made with zitan wood and kingfisher feathers.
 
-![A Qing-dynasty landscape screen with vivid kingfisher-feather details]({{ '/images/art1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/art1-2026-10-10.jpeg" alt="A Qing-dynasty landscape screen with vivid kingfisher-feather details" article=true %}
 
 ## Food? Me?
 
 By the time I finished at the museum, I was hungry again. I made my way to Central and began walking up and down the alleys in search of lunch.
 
-![A narrow market alley in Central]({{ '/images/alleywalk1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/alleywalk1-2026-10-10.jpeg" alt="A narrow market alley in Central" article=true %}
 
 There were vendors on either side, with people moving in both directions through a gap about as wide as an escalator. Whenever a vendor stepped out to tend to the front of a stall, we lost a little more of the available x-axis. Every step required some deliberation.
 
@@ -84,7 +84,7 @@ That's right, it was a reverse cab hail, and I was fully participating.
 
 She sat me at the only table with another foreigner: Minh, a student from Germany finishing his degree and spending a month here on a trip combining school and work.
 
-![Lunch and milk tea in Central]({{ '/images/lunch-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/lunch-2026-10-10.jpeg" alt="Lunch and milk tea in Central" article=true %}
 
 Lunch was good. So good, in fact, that it hadn't crossed my mind to check whether *this* restaurant accepted Visa.
 
@@ -94,13 +94,13 @@ Thankfully, Minh kindly covered the meal. I had really overestimated Visa's prev
 
 We ended up spending the rest of the afternoon together, stopping at Decathlon and grabbing some dessert. I forgot what it was called, but finding the shop was a mission in itself. Surely some Chongqing foreshadowing.
 
-![Dessert during my afternoon with Minh]({{ '/images/dessert1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/dessert1-2026-10-10.jpeg" alt="Dessert during my afternoon with Minh" article=true %}
 
 We finished our afternoon with a quick rest at a temple.
 
-![The street on our walk to the temple]({{ '/images/templeWalk1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/templeWalk1-2026-10-10.jpeg" alt="The street on our walk to the temple" article=true %}
 
-![The temple entrance]({{ '/images/templeWalk2-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/templeWalk2-2026-10-10.jpeg" alt="The temple entrance" article=true %}
 
 Minh also solved a mystery I'd been wondering about since arriving in Hong Kong: why does it sometimes rain beside a building but not three feet farther into the street? Full-on drops hitting me square in the glasses. Weird. I could've sworn there was no rain in the forecast.
 
@@ -114,9 +114,9 @@ Minh, big thanks for the afternoon and the meal. I'm glad we got to chat and tha
 
 After an afternoon of walking around Central, I decided the next sensible activity was more walking. Uphill, this time: Victoria Peak.
 
-![The start of the walk up to Victoria Peak]({{ '/images/hike2-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hike2-2026-10-10.jpeg" alt="The start of the walk up to Victoria Peak" article=true %}
 
-![The road climbing toward the Peak]({{ '/images/hike1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hike1-2026-10-10.jpeg" alt="The road climbing toward the Peak" article=true %}
 
 Early in the hike, I met Leo and his girlfriend, Seeki. Another pair of brave souls taking the good old-fashioned route to the top.
 
@@ -128,19 +128,19 @@ Speaking of Seeki, she deserves a mention for being an absolute trooper. She mad
 
 The conversation carried us up the hill, moving between the pros and cons of different forms of government and whatever else came to mind. We finally reached the top, where we spent some time enjoying the view and taking pictures.
 
-![With Leo and Seeki at Victoria Peak]({{ '/images/trio-2026-10-11.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/trio-2026-10-11.jpeg" alt="With Leo and Seeki at Victoria Peak" article=true %}
 
-![Architecture at the top of Victoria Peak]({{ '/images/top1-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/top1-2026-10-10.jpeg" alt="Architecture at the top of Victoria Peak" article=true %}
 
-![Sunlight over the water from Victoria Peak]({{ '/images/top4-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/top4-2026-10-10.jpeg" alt="Sunlight over the water from Victoria Peak" article=true %}
 
-![Hong Kong's skyline from the Peak]({{ '/images/top2-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/top2-2026-10-10.jpeg" alt="Hong Kong's skyline from the Peak" article=true %}
 
 ## A first, for someone else
 
 We went to an Indian restaurant at the top. Here's something I hadn't expected: Seeki had never tried Indian food before. Not once.
 
-![Dinner together at the Peak]({{ '/images/lateSnack-2026-10-10.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/lateSnack-2026-10-10.jpeg" alt="Dinner together at the Peak" article=true %}
 
 I was happy to be there for it. I'd been spending this trip discovering things that were new to me. Now I was watching someone else discover something I'd been familiar with for years.
 
