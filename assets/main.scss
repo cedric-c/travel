@@ -1,6 +1,7 @@
 ---
 ---
 @import "minima";
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@400;500;600&family=Noto+Serif+SC:wght@400;500&family=Source+Serif+4:wght@400;500;600&display=swap");
 
 :root {
   color-scheme: light;
@@ -75,4 +76,27 @@ a:hover, a:focus { color: #713522; text-decoration: underline; }
   .entry h3 { font-size: 26px; }
   .section-heading h2 { font-size: 30px; }
   .post, .page { padding-top: 50px; }
+}
+
+/* Editorial journal refresh: typography and readable article rhythm. */
+body { font-family: "Source Serif 4", "Noto Serif SC", Georgia, serif; }
+.site-title, .site-title:visited, .intro h1, .section-heading h2, .entry h3, .post-title, .page-heading, .footer-heading { font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif; }
+.site-nav .page-link, .intro-kicker, .intro-link, .entry-read, .entry-filter label, .entry-filter select, .section-heading span, .entry-date, .post-meta, .site-footer { font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; }
+.post-content { max-width: 700px; margin-inline: auto; font-size: 18px; line-height: 1.75; }
+.post-content p { margin-bottom: 1.45em; }
+.post-content h2, .post-content h3 { line-height: 1.25; margin-top: 1.8em; }
+.post-content img { margin: 36px 0 12px; }
+.post-content em, .post-content figcaption { overflow-wrap: anywhere; }
+.post-content figcaption, .post-content .caption, .post-content small { font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.6; color: #687168; }
+.post-content :lang(zh) { font-family: "Noto Serif SC", "Songti SC", serif; }
+.post-content :lang(zh-Latn) { font-family: Inter, sans-serif; color: #687168; font-size: .9em; }
+.entry:first-of-type { display: block; padding-top: 22px; padding-bottom: 48px; }
+.entry:first-of-type .entry-date { padding-top: 0; margin-bottom: 18px; }
+.entry:first-of-type .entry-thumbnail { border-radius: 3px; }
+.entry:first-of-type h3 { font-size: clamp(34px, 5vw, 48px); max-width: 680px; }
+.entry:first-of-type .entry-body { max-width: 700px; }
+.entry:first-of-type .entry-body p { font-size: 17px; line-height: 1.65; }
+@media (max-width: 600px) {
+  .post-content { font-size: 17px; line-height: 1.7; }
+  .entry:first-of-type h3 { font-size: 34px; }
 }

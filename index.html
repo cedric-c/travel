@@ -26,6 +26,9 @@ layout: default
     object-fit: cover;
   }
   .entries .entry-body { flex: 1 1 0; min-width: 0; }
+  .entries .entry:first-of-type .entry-content { display: block; }
+  .entries .entry:first-of-type .entry-thumbnail { width: 100%; margin-bottom: 22px; }
+  .entries .entry:first-of-type .entry-thumbnail img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
   @media (max-width: 600px) {
     .entries .entry-content { gap: 14px; }
     .entries .entry-thumbnail { flex-basis: 88px; width: 88px; }
@@ -37,12 +40,12 @@ layout: default
   <div class="intro-kicker">A journal from the road <span aria-hidden="true">✦</span> 路上的日记</div>
   <h1 id="intro-title">A little further<br><em>every day.</em></h1>
   <p>Photographs, passing thoughts, and small discoveries — written in English and Mandarin as I go.</p>
-  <a class="intro-link" href="#entries">Read the latest notes <span aria-hidden="true">↗</span></a>
+  <a class="intro-link" href="#entries">Read the journal <span aria-hidden="true">↗</span></a>
 </section>
 
 <section class="entries" id="entries" aria-labelledby="entries-title">
   <div class="section-heading">
-    <h2 id="entries-title">Field notes</h2>
+    <h2 id="entries-title">Journal</h2>
     <span id="entry-count" role="status" aria-live="polite">游记 · {{ site.posts.size }} {% if site.posts.size == 1 %}entry{% else %}entries{% endif %}</span>
   </div>
   <div class="entry-filters" id="entry-filters" hidden>
