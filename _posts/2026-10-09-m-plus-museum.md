@@ -12,7 +12,7 @@ One thing I really appreciated was that the exhibits had explanations in both En
 
 There was plenty to see, and the building itself is beautiful, with some amazing views of the Hong Kong skyline. The coffee and mushroom bread were expensive, though. Apparently even art appreciation has a surcharge.
 
-![M+ Museum exterior]({{ '/images/hkmp_exterior-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp_exterior-2026-10-09.jpeg" alt="M+ Museum exterior" article=true %}
 
 It's also ridiculously hot outside. It was already 27°C at 10 AM. We'll see how well I handle the heat, and how appreciative my fellow commuters are of my smell. Don't worry, I brought déo.
 
@@ -28,60 +28,60 @@ So yeah, I'm currently sitting at about five to ten seconds of conversational au
 
 An entire wall of erotic Post-it notes. Not what I expected, but certainly memorable.
 
-![Wall of intimate illustrated notes]({{ '/images/hkmp5-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp5-2026-10-09.jpeg" alt="Wall of intimate illustrated notes" article=true %}
 
 Girls in dresses. This one was particularly cool because, up close, the images are made up of characters. It's characters all the way down.
 
-![Figures composed of tiny characters]({{ '/images/hkmp6-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp6-2026-10-09.jpeg" alt="Figures composed of tiny characters" article=true %}
 
-![Figures composed of tiny characters]({{ '/images/hkmp7-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp7-2026-10-09.jpeg" alt="Figures composed of tiny characters" article=true %}
 
 *Nansheng Restaurant.* I could've spent much longer looking at this one. So much detail, so many uncles with exposed bellies. Authentic.
 
-![Nansheng Restaurant artwork]({{ '/images/hkmp4-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp4-2026-10-09.jpeg" alt="Nansheng Restaurant artwork" article=true %}
 
 Now this is an installation I'm familiar with. In fact, I'm a bit of an artist myself. I've got something remarkably similar at home: a completely dark room with nothing visible except the LEDs. Getting a decent photo of that is another story, though. I've been putting off buying a camera for low-light photography for ages. Maybe I'll finally get around to it before my next trip.
 
-![A surprisingly familiar installation]({{ '/images/hkmp8-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp8-2026-10-09.jpeg" alt="A surprisingly familiar installation" article=true %}
 
 I loved the bright reds in this piece. So many people, so much Coca-Cola worship. There's a lot to unpack here.
 
-![Red Coca-Cola-themed artwork]({{ '/images/hkmp3-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp3-2026-10-09.jpeg" alt="Red Coca-Cola-themed artwork" article=true %}
 
 *Red Alert.* This one made me feel like I'd been cast in the next James Bond movie. Find the pattern, crack the code, save the world. Standard museum stuff.
 
-![Red Alert installation]({{ '/images/hkmp9-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp9-2026-10-09.jpeg" alt="Red Alert installation" article=true %}
 
-![Red Alert installation]({{ '/images/hkmp10-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp10-2026-10-09.jpeg" alt="Red Alert installation" article=true %}
 
 And then there were these smiling creepoids. I half expected one of them to jump out at me as I walked around, Weeping Angel-style, straight out of *Doctor Who*.
 
-![Smiling figures at M+]({{ '/images/hkmp1-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp1-2026-10-09.jpeg" alt="Smiling figures at M+" article=true %}
 
 ## The building itself
 
 The architecture deserves some appreciation of its own. The coloured glass gives the museum so much character and really sets the mood. *Hěn piàoliang* (很漂亮)—very beautiful.
 
-![Coloured glass and architectural details at M+]({{ '/images/hkmpb3-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmpb3-2026-10-09.jpeg" alt="Coloured glass and architectural details at M+" article=true %}
 
-![Coloured glass and architectural details at M+]({{ '/images/hkmpb6-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmpb6-2026-10-09.jpeg" alt="Coloured glass and architectural details at M+" article=true %}
 
-![Coloured glass and architectural details at M+]({{ '/images/hkmpb7-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmpb7-2026-10-09.jpeg" alt="Coloured glass and architectural details at M+" article=true %}
 
 The prettiest room in the museum, though, is easily the one overlooking Victoria Harbour. I could've stayed there just looking out over the city.
 
-![Views of Victoria Harbour from M+]({{ '/images/hkmpb1-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmpb1-2026-10-09.jpeg" alt="Views of Victoria Harbour from M+" article=true %}
 
-![Views of Victoria Harbour from M+]({{ '/images/hkmpb2-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmpb2-2026-10-09.jpeg" alt="Views of Victoria Harbour from M+" article=true %}
 
 ## Design Ah!
 
 There was a really fun exhibit about human-centred design: how we make everyday objects and experiences easier to use. For instance, how much thought have you put into the way you cut a sandwich? Well, the people behind *Design Ah!* have you covered.
 
-![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw1-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp_sw1-2026-10-09.jpeg" alt="Design Ah! exhibition on everyday design" article=true %}
 
-![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw2-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp_sw2-2026-10-09.jpeg" alt="Design Ah! exhibition on everyday design" article=true %}
 
-![Design Ah! exhibition on everyday design]({{ '/images/hkmp_sw3-2026-10-09.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/hkmp_sw3-2026-10-09.jpeg" alt="Design Ah! exhibition on everyday design" article=true %}
 
 M+ is easily one of my favourite museums so far. Would definitely recommend it if you're in Hong Kong.
