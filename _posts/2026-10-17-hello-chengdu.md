@@ -24,7 +24,7 @@ I continued making my way through the building, employing what felt like an incr
 
 **Nine. Floors. Of. Clothes.**
 
-![Nine floors of shopping in Chengdu]({{ '/images/stores-2026-10-17.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/stores-2026-10-17.jpeg" alt="Nine floors of shopping in Chengdu" article=true %}
 
 Not a single luggage lock.
 
@@ -66,7 +66,7 @@ She recommended two dishes:
 
 Pea noodles it was.
 
-![Chengdu pea noodles]({{ '/images/noodles-2026-10-17.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/noodles-2026-10-17.jpeg" alt="Chengdu pea noodles" article=true %}
 
 They were pretty good, actually. Unfortunately, I also managed to get oil on my shirt, which meant another trip back to the hotel to clean myself up.
 
@@ -76,13 +76,13 @@ After changing and taking a short break, I headed out to explore Chengdu’s nig
 
 And honestly? Pretty pleasant.
 
-![Chengdu riverside nightlife along Siguan Street]({{ '/images/siguan1-2026-10-17.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/siguan1-2026-10-17.jpeg" alt="Chengdu riverside nightlife along Siguan Street" article=true %}
 
 I even ran into some Australians getting their ears cleaned by roadside vendors. Yes, apparently that’s a service you can get here in China. Just sit down on the side of the road and let a stranger go spelunking in your ear canals.
 
-![Meeting fellow travellers at a roadside ear-cleaning stall in Chengdu]({{ '/images/ears-2026-10-17.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/ears-2026-10-17.jpeg" alt="Meeting fellow travellers at a roadside ear-cleaning stall in Chengdu" article=true %}
 
-![Bars and nightlife on Siguan Street]({{ '/images/siguan2-2026-10-17.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/siguan2-2026-10-17.jpeg" alt="Bars and nightlife on Siguan Street" article=true %}
 
 Anyway, there I was, walking down the street, when person after person started approaching me, inviting me in for drinks.
 
@@ -124,6 +124,6 @@ Fair enough. So was I.
 
 ---
 
-![Illuminated bridge over the river in Chengdu at night]({{ '/images/bridge-2026-10-17.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/bridge-2026-10-17.jpeg" alt="Illuminated bridge over the river in Chengdu at night" article=true %}
 
 *Chengdu after dark.*
