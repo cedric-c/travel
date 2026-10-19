@@ -93,7 +93,7 @@ I wasn’t particularly interested, having already stopped for a drink at a bar 
 Now, one thing you should know about walking around China is that there are a few Mandarin phrases that come in particularly handy when people approach you:
 
 * **Wǒ tīng bù dǒng (我听不懂)**: I don’t understand.
-* **Wǒ shuō Yīngwén hé Fǎwén (我说英文和法文)**: I speak English and French.
+* **Wǒ shuō Yīngyǔ hé Fǎyǔ (我说英语和法语)**: I speak English and French.
 * **Bú yòng, xièxie (不用，谢谢)**: No thanks, I don’t need it.
 
 That last one is especially useful.
