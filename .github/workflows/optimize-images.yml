@@ -1,0 +1,58 @@
+name: Optimize travel photos
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Report only; do not write files'
+        type: boolean
+        default: true
+      force:
+        description: 'Regenerate variants even if up to date'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - 'images/**'
+      - '!images/optimized/**'
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: optimize-images
+  cancel-in-progress: false
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install 'Pillow==11.1.0'
+      - name: Generate variants and manifest
+        env:
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || false }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force || false }}
+        run: |
+          flags=""
+          if [ "$DRY_RUN" = "true" ]; then flags="$flags --dry-run"; fi
+          if [ "$FORCE" = "true" ]; then flags="$flags --force"; fi
+          python scripts/optimize_images.py $flags
+      - name: Open review PR for generated images
+        if: ${{ github.event_name == 'push' || !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(git status --porcelain -- images/optimized _data/responsive_images.json)" ]; then
+            echo "No generated changes."
+            exit 0
+          fi
+          branch="automation/responsive-images-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add images/optimized _data/responsive_images.json
+          git commit -m "Generate responsive image variants"
+          git push origin "$branch"
+          gh pr create --base main --head "$branch" --title "Backfill responsive image variants" --body "Generated WebP image variants and Jekyll manifest. Originals are preserved. Review asset sizes before merging."
