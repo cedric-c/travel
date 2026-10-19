@@ -85,7 +85,7 @@ layout: default
     <div class="entry-content">
       {% if post.image %}
       <a class="entry-thumbnail" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
-        <img src="{{ post.image | relative_url }}" alt="" loading="lazy" decoding="async" width="112" height="112">
+        {% include responsive-image.html src=post.image alt="" featured=forloop.first %}
       </a>
       {% endif %}
       <div class="entry-body">
