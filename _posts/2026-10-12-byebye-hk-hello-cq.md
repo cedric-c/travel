@@ -84,7 +84,7 @@ The seven-hour train ride to Chongqing, however, turned out to be one of the hig
 Finn is from Xi’an, and we spent most of the journey talking about just about everything: love, relationships, money, family, and life in general. We exchanged stories, cracked jokes, and somehow managed to fill seven hours without running out of things to talk about.
 
 
-![Writing in my journal aboard the train]({{ '/images/train-finn-2026-10-12.jpeg' | relative_url }})
+{% include responsive-image.html src="/images/train-finn-2026-10-12.jpeg" alt="Writing in my journal aboard the train" article=true %}
 *Somewhere between Hong Kong and Chongqing, working on the very journal you're reading.*
 
 

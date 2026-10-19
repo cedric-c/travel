@@ -3,6 +3,9 @@
 {%- assign image_loading = 'lazy' -%}
 {%- assign image_priority = 'auto' -%}
 {%- assign image_sizes = '(max-width: 600px) 88px, 112px' -%}
+{%- if include.article -%}
+  {%- assign image_sizes = '(max-width: 740px) calc(100vw - 32px), 700px' -%}
+{%- endif -%}
 {%- if include.featured -%}
   {%- assign image_loading = 'eager' -%}
   {%- assign image_priority = 'high' -%}
