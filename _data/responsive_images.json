@@ -1,0 +1,3535 @@
+{
+  "/images/Beach-dogs-191215.jpeg": {
+    "config": "baf95b4ec30ccfcff36b247b449a2e3b1eb4b8776fb97ccf8779ef58deb2a94e",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Beach-dogs-191215.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Beach-dogs-191215.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Beach-dogs-191215.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/Japan-humidity-20240831.jpeg": {
+    "config": "1b48d7e372c76e4b9cf524b0a1e26147570cb3b500c2623847e5c874c38835cf",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/Japan-humidity-20240831.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/Japan-humidity-20240831.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/Kkday-2-191216.jpeg": {
+    "config": "765ba69a6168acb73d42c1c801ffdd17f067c8dece4ec418f4a4e768bbd063ee",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Kkday-2-191216.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Kkday-2-191216.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Kkday-2-191216.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/Kkday-3-191216.jpeg": {
+    "config": "2b050831fc0b33e0477c511d3c17271c037fe3aad59971742ce597b9affef69a",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Kkday-3-191216.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Kkday-3-191216.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Kkday-3-191216.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/Kkday-4-191216.jpeg": {
+    "config": "e0d99ca79034f4b245d24092b54f81509c785cf6f36a5557525feceeaff10bb5",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Kkday-4-191216.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Kkday-4-191216.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Kkday-4-191216.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/Roy-191216.jpeg": {
+    "config": "4a2da4df1717fb6a7b22cf03e30051db6d936efe63d7f7419eb4a87ca46619a0",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Roy-191216.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Roy-191216.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Roy-191216.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/Shenzhen-evening-walk-231023.jpeg": {
+    "config": "00256cce0b66ea2d0f24dcdf8273dd4a2837f15b4e13125a0be76fd31ce68597",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Shenzhen-evening-walk-231023.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Shenzhen-evening-walk-231023.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Shenzhen-evening-walk-231023.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/Shenzhen-hotel-view-231025.jpeg": {
+    "config": "debba05220cf19c124d5c7974c3ee4ebfa65bea026dbe5dbae898940c1784581",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/Shenzhen-hotel-view-231025.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/Shenzhen-hotel-view-231025.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/Shenzhen-hotel-view-231025.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/Shenzhen-tech-market-231024.jpeg": {
+    "config": "b045394cb9df7e1f50b30061e94f32ec63d1378fc568a6b6a3ec7dc14850dea4",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Shenzhen-tech-market-231024.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Shenzhen-tech-market-231024.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Shenzhen-tech-market-231024.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/Taiwan-beach-20191218.jpeg": {
+    "config": "596983c7bf36ec4ab2240ae05fa01527818e8efee24eca97c712f002e5f78962",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Taiwan-beach-20191218.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Taiwan-beach-20191218.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Taiwan-beach-20191218.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/Tokyo-tower-20231108.jpeg": {
+    "config": "504cc1b4e84d1eaa078ddd64a258d26ddd29fbbb30c20c093e5ff8a52bbc82a8",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Tokyo-tower-20231108.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Tokyo-tower-20231108.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Tokyo-tower-20231108.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/Tokyo-tower-outside-20231108.jpeg": {
+    "config": "2aaa5c6fbb03630a73e92e03495f81542e077dc0b047e0fe6ae8dcde2a80a398",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/Tokyo-tower-outside-20231108.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/Tokyo-tower-outside-20231108.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/Train-in-Tunnel-191216.jpeg": {
+    "config": "873da6042e5c1dd2209d5cc999091893d8ee7901750ba8eeb95daa025addc9d0",
+    "height": 769,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Train-in-Tunnel-191216.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Train-in-Tunnel-191216.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1025
+  },
+  "/images/Welcome-japan-2023.jpg": {
+    "config": "3c49ea2ab61072c72b5f90c146dd6b3931a1e10ccfb8aae5986e6a6771287578",
+    "height": 3024,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/Welcome-japan-2023.jpg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/Welcome-japan-2023.jpg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/Welcome-japan-2023.jpg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 4032
+  },
+  "/images/alleywalk1-2026-10-10.jpeg": {
+    "config": "46b70ef2377ab66ebb8bc46dc850af52c6599e7b23a41f3bb901063335251348",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/alleywalk1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/alleywalk1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/alleywalk1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/architecture1-2026-10-10.jpeg": {
+    "config": "5e213b393a5f88fc58def84ffc9fc6fc5284bb18ec0ce44e8a1562f5adb12c0a",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/architecture1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/architecture1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/architecture1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/architecture2-2026-10-10.jpeg": {
+    "config": "20bb47b47e2b4b63a3d3e2c67ae871e858a4e1a39f879187283f1287ad9321fc",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/architecture2-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/architecture2-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/architecture2-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/architecture3-2026-10-10.jpeg": {
+    "config": "2215570fa6d3df06304608a0f5c57c611c7a51a5ae8d9f699d69673a78be4322",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/architecture3-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/architecture3-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/architecture3-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/art1-2026-10-10.jpeg": {
+    "config": "c99959f2907584b9feb61addcb3b0fc382ebbb2b55abfb2b1e35fc8a70f93715",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/art1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/art1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/atmosphere-2026-10-14.jpeg": {
+    "config": "c374068ddcca2dd796aa2c90b7d10a2bea10fa507edc81b692b805ab761ada2d",
+    "height": 1138,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/atmosphere-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/atmosphere-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/atmosphere-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2023
+  },
+  "/images/borderless-a1-2026-10-06.jpeg": {
+    "config": "a858f8a6d931cfa4858561296b94c7cbba2e84f224f021e04181b4af33cf7a8c",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-a1-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-a1-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-a1-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/borderless-a2-2026-10-06.jpeg": {
+    "config": "2ed39fb50ca3106e099987f8f4e1aae07bba7166af2947e0f68a33dffddb84c6",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/borderless-a2-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/borderless-a2-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/borderless-a2-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/borderless-a3-2026-10-06.jpeg": {
+    "config": "19218e91ebcf80802d38b677ea200491789de06dbe177eb9f4620a88a3192a67",
+    "height": 1080,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-a3-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-a3-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-a3-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1920
+  },
+  "/images/borderless-a4-2026-10-06.jpeg": {
+    "config": "82e97be46c42c1dd8dad17ec98b59634efbf13de1a59809876cfd578cf60ec90",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-a4-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-a4-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-a4-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/borderless-a5-2026-10-06.jpeg": {
+    "config": "4df941719a38e0c26be820d955158fa35fa1f642f34fee2f4f1555170f89c574",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/borderless-a5-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/borderless-a5-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/borderless-a5-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/borderless-b1-2026-10-06.jpeg": {
+    "config": "704dfd5963ab07d76a1bbfac8ab36157df20cfeeadaf77f46026c5958da55442",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/borderless-b1-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/borderless-b1-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/borderless-b1-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/borderless-b2-2026-10-06.jpeg": {
+    "config": "59767eb65f4c1c3fe82bf75faa882cc46cad965fc41ac3f538c2be1d9fc297c8",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-b2-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-b2-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-b2-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/borderless-b3-2026-10-06.jpeg": {
+    "config": "205e934aab596f968581f0d76bc4106ec77226cac6236595cdbe841751c5d915",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-b3-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-b3-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-b3-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/borderless-c1-2026-10-06.jpeg": {
+    "config": "b2846731da5a3a22305e2bc3375afe81cd05241cc45bbffdf9e9d1444ab289b9",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-c1-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-c1-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-c1-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/borderless-c2-2026-10-06.jpeg": {
+    "config": "ec106960a0f3322bd89469f3dfe7f3ae863f9d6e4573d82e045c871868b1a033",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/borderless-c2-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/borderless-c2-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/borderless-c2-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/borderless-d1-2026-10-06.jpeg": {
+    "config": "2a8728a2a6525e3d8fa6ab430cbc16c2be73686f3b98ad88f64127eb42cc8a45",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-d1-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-d1-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-d1-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/borderless-d2-2026-10-06.jpeg": {
+    "config": "ae48ebbf458c91dedd2e5483f4513fe439b74e83c620c5cc10b571d0c02452cb",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-d2-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-d2-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-d2-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/borderless-edges1-2026-10-06.jpeg": {
+    "config": "15ee14380776e2446a04991fd958e364d9d919cf9dcc595403a6b43b9d9d4df3",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/borderless-edges1-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/borderless-edges1-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/borderless-edges1-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/breakfast-2026-10-11.jpeg": {
+    "config": "c9d708c6f9bf9d2eeba03320d21019855148e5d8143b7f7267de3b523ba8f31a",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/breakfast-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/breakfast-2026-10-11.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/breakfast-2026-10-11.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/bridge-2026-10-17.jpeg": {
+    "config": "cbb35d12deb3c93fe5c6b114269b24f34fb920ae133d97b2881952f4a0c52b2c",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/bridge-2026-10-17.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/bridge-2026-10-17.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/bridge-2026-10-17.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/buddha1-2026-10-11.jpeg": {
+    "config": "e7bf016affc1a4a8b122ea94d498959af9bf81c8e6457657ea61285168509bcd",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/buddha1-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/buddha1-2026-10-11.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/buddha1-2026-10-11.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/buddha2-2026-10-11.jpeg": {
+    "config": "312faca4df8b8592e4407593478b0adc4612f11f86efc8165cbf531a6d12b1e9",
+    "height": 1771,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/buddha2-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/buddha2-2026-10-11.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 996
+  },
+  "/images/buddha_view-2026-10-11.jpeg": {
+    "config": "ac38876adf103c93ada75062bb5fa219e4ae0f8ed562ae544c7f6e2255ec0e19",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/buddha_view-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/buddha_view-2026-10-11.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/buddha_view-2026-10-11.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/cafe1-2026-10-10.jpeg": {
+    "config": "d6879c68ab9269b161ef73fa59fafd4314d367373ab8e5079d7dae82fd119cb2",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/cafe1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/cafe1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/cafe1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/cages1-2026-10-14.jpeg": {
+    "config": "75475a826d9b72b05c45de109232418f0b5f29f20fcf63da1e8a85f8f3bc8b24",
+    "height": 1185,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/cages1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/cages1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/cages1-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2106
+  },
+  "/images/catalley1-2023-10-29.jpeg": {
+    "config": "8c56444afa1296942cf05bc37859138c3b10c57078a9b15105c507bba1c9f411",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/catalley1-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/catalley1-2023-10-29.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/catalley2-2023-10-29.jpeg": {
+    "config": "f2a48d63eb85eff07436ed0f320fc4b31ea84f3842e11f0bd040105b59ab0fff",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/catalley2-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/catalley2-2023-10-29.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/catalley3-2023-10-29.jpeg": {
+    "config": "990d8b2f5ff00d60505f7e9d627889444fdb84b390e0c17eddf312d901d79762",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/catalley3-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/catalley3-2023-10-29.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/catalley4-2023-10-29.jpeg": {
+    "config": "c85b640db02e2598eff64c2354a1a634236e23ba80979f329bdfc535a95101e4",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/catalley4-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/catalley4-2023-10-29.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/ciqikou1-2026-10-14.jpeg": {
+    "config": "d9f9daf6f04e1dbfb460e748d78b5a4dab53a72b09e6efb52b8fd1c498e84e89",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/ciqikou1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/ciqikou1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/ciqikou1-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/ciqikou2-2026-10-14.jpeg": {
+    "config": "e1a24e7ed8dc0802482c7d26529e1f958435d2c7380f34fa822b613bcc3a2c8b",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/ciqikou2-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/ciqikou2-2026-10-14.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/ciqikou3-2026-10-14.jpeg": {
+    "config": "0b9803ce436a6eb7f747ec72e4677399478524218b8a849afada03c1637dc121",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/ciqikou3-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/ciqikou3-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/ciqikou3-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/comic1-2026-10-10.jpeg": {
+    "config": "131bf25746ce33487972187c5769ca8e5a4ee69b10f65b298b3a0e7528109cda",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/comic1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/comic1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/comic1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/cosmic1-2026-10-10.jpeg": {
+    "config": "dfa161d88f65ff0c625f1a0df7aef7a3ff3ec9c39260f162e2dbb817ceee6d79",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/cosmic1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/cosmic1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/cosmic1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/cosmic2-2026-10-10.jpeg": {
+    "config": "7bbd428a27a0979edf091af2f553e5f2f7730b9fe772dc2d2dda4b11b79a8f7a",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/cosmic2-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/cosmic2-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/cosmic2-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/cover-2026-10-14.jpeg": {
+    "config": "17342b0fcd4e2cd999d3b1b3d0a5422ce6ca88b46c633812119173626c13fbb7",
+    "height": 1511,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/cover-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/cover-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/cover-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2687
+  },
+  "/images/dessert1-2026-10-10.jpeg": {
+    "config": "953478a2d01d088e0703656d235e2365b9b1a80eb5511f904a5c725bde3a1358",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/dessert1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/dessert1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/dessert1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/ears-2026-10-17.jpeg": {
+    "config": "a096d89097ece09e5a22642bc04b22fa0e539da470cf5a11cc4c78e858bcb278",
+    "height": 1377,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/ears-2026-10-17.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/ears-2026-10-17.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/ears-2026-10-17.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/failed-baozi-purchase-2026-10-05.jpeg": {
+    "config": "f003a60d59847592ed4fb3585e57c5f20e224651f24db829e574ea2eb20e0a22",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/failed-baozi-purchase-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/failed-baozi-purchase-2026-10-05.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/failed-baozi-purchase-2026-10-05.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/fire1-2026-10-14.jpeg": {
+    "config": "4647bb4d0f19b1f1196174b3c2f5d184802ad7b2df5da3fa3288796ca24e7d82",
+    "height": 568,
+    "variants": [
+      {
+        "height": 222,
+        "url": "/images/optimized/fire1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 556,
+        "url": "/images/optimized/fire1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 817
+  },
+  "/images/flying-2026-10-14.jpeg": {
+    "config": "3628c5682896437157fa33639371e7f0e597d8dd257d568aa237df6db02baccd",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/flying-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/flying-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/flying-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/going-to-wuhan-mall1-2023-10-29.jpeg": {
+    "config": "4510804d80bfd6f523b9c10b0f7c3a296f1ab23cbe98e7be92d3ec3c9d67ab75",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/going-to-wuhan-mall1-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/going-to-wuhan-mall1-2023-10-29.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/going-to-wuhan-mall1-2023-10-29.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/gondola1-2026-10-11.jpeg": {
+    "config": "44f2132be06a70f5a598fbc4dbde5fc3c8a77b5c4596067fe755f7c16c8a9cb0",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/gondola1-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/gondola1-2026-10-11.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/gondola1-2026-10-11.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/gondola2-2026-10-11.jpeg": {
+    "config": "8e1014ddcd9d27f809afc871d4e0a3910ef779b0c9289a5f09ed92cd4348dc08",
+    "height": 2446,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/gondola2-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/gondola2-2026-10-11.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1376
+  },
+  "/images/gondola_view3-2026-10-11.jpeg": {
+    "config": "6c287d4e850ff2adb0a9b98e75336659923fb9fd0a3e6db67e82c281aae95d23",
+    "height": 2288,
+    "variants": [
+      {
+        "height": 568,
+        "url": "/images/optimized/gondola_view3-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1421,
+        "url": "/images/optimized/gondola_view3-2026-10-11.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1288
+  },
+  "/images/harmonica-yokocho-2026-10-05.jpeg": {
+    "config": "0ca74253beb244afcfb0cace3c6df4c1026cfcc626e8f52ec45b0a7467f0a2f2",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/harmonica-yokocho-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/harmonica-yokocho-2026-10-05.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/hike1-2026-10-10.jpeg": {
+    "config": "9339125064fd0938a08770f129330bf20c4841aab5e105774f2a5d9568a3fb04",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/hike1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/hike1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/hike1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/hike2-2026-10-10.jpeg": {
+    "config": "3ee932b5a6426719bf622c483d482e2ada37049e30dc17d84ff9b5c8ee79901f",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/hike2-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/hike2-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/hike2-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/hkd1_bruce1-2026-10-09.jpeg": {
+    "config": "48953cabc38e8cb0b2c47822085c145d205dba48972aa9b4840f4235f8eced16",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_bruce1-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_bruce1-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_bruce1-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkd1_evening-2026-10-09.jpeg": {
+    "config": "36b6c4a0e7d1a223827050cc6ea5ae4f40a179481388f47ae1290edf7aed144b",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_evening-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_evening-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_evening-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkd1_evening2-2026-10-09.jpeg": {
+    "config": "a78555ddb5ac551d30d7a71d1c647bcd6571a5dc3b9b3f15d57559886eb5e38c",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_evening2-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_evening2-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_evening2-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkd1_museumWalk1-2026-10-09.jpeg": {
+    "config": "b3a4c8e3560dc84a4104f683dd5c632ec828a2fe1e72a1acc167a1c12ef2b42b",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_museumWalk1-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_museumWalk1-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_museumWalk1-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkd1_museumWalk2-2026-10-09.jpeg": {
+    "config": "2579bd331ad2d68095b141701baeedffb4b41562b3b403715a3e1d0139c2d07c",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_museumWalk2-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_museumWalk2-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_museumWalk2-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkd1_museumWalk3-2026-10-09.jpeg": {
+    "config": "80f808e33e3f9daf4d4b55b4606d3d6f2b0f28fd1c4d95c78982418726198bf2",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_museumWalk3-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_museumWalk3-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_museumWalk3-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkd1_skating-2026-10-09.jpeg": {
+    "config": "64e51215fa42fa31c4417bf838b73c4d82dc5a9e3dca0e4d3626c482e964d9ca",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_skating-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_skating-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_skating-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkd1_trashcan1-2026-10-09.jpeg": {
+    "config": "8adb5efd26dd9538996843c04ff49cda0fe4a45658e4f202ddcd428aace7026e",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_trashcan1-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_trashcan1-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_trashcan1-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkd1_walk1-2026-10-09.jpeg": {
+    "config": "4e766a25bf9c94ff2ce39663756d8acdce9eea3aa3c08181b7ec37f2ae07c6eb",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd1_walk1-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd1_walk1-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd1_walk1-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkd_evening2-2026-10-09.jpeg": {
+    "config": "87cba63d64775c5e9c58b82e133a77e58fdd9e38fa2870ce965ca6b4ffce9231",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkd_evening2-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkd_evening2-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkd_evening2-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmp1-2026-10-09.jpeg": {
+    "config": "ec602507e1611c5db86320652db2a5ba49155f4fb8865b244c6a7699e978c4ce",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp1-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp1-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp1-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmp10-2026-10-09.jpeg": {
+    "config": "d8f9ee93857d70c6a9ea21c86fdc64a11102850047539baa3d238d569073d005",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/hkmp10-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/hkmp10-2026-10-09.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/hkmp2-2026-10-09.jpeg": {
+    "config": "9fdbbc39e2312a4e3ed9e08d0afb834be7c4c4e957e095e72a9643fe08c5e360",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/hkmp2-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/hkmp2-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/hkmp2-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/hkmp3-2026-10-09.jpeg": {
+    "config": "6ed6cb9b718daa382fbc13e64c3140515550fce9a4eb704d4ff4ce8fcebd6dfd",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp3-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp3-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp3-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmp4-2026-10-09.jpeg": {
+    "config": "d89122e078e7aadd3c48a402d3272cf4888c9e548924f8f7c3bcc52926675afc",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp4-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp4-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp4-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmp5-2026-10-09.jpeg": {
+    "config": "c978b3829f7213567344134bc0accfcaff42e00922e1d45328d442113443e9ab",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp5-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp5-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp5-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmp6-2026-10-09.jpeg": {
+    "config": "8320fa5ebbf5414f339ca35fb7bfc934dbb2d8c946911551c2f1d5d94814c601",
+    "height": 1478,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp6-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp6-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp6-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2628
+  },
+  "/images/hkmp7-2026-10-09.jpeg": {
+    "config": "294e2b65e0948e31676f024fe11185c0e3e7c2642ac73df99059affa3067bad1",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp7-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp7-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp7-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmp8-2026-10-09.jpeg": {
+    "config": "f06fa56e6f513c07746ec7d6cd96abc7f7ba56027dc19dde1d39411d4397977a",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp8-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp8-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp8-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmp9-2026-10-09.jpeg": {
+    "config": "4046913d38fe3e29695c089d5b4023dc1bca0956a86af1e455ff3951e8f4f85f",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp9-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp9-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp9-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmp_exterior-2026-10-09.jpeg": {
+    "config": "0a7ee9c3a44420816f43546496038faa805b116efe1604fbf6a69157b693caea",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp_exterior-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp_exterior-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp_exterior-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmp_sw1-2026-10-09.jpeg": {
+    "config": "4c977714047a39deadc98d41fe32968332a78f80a99231998d2de8a1912b6c0c",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp_sw1-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp_sw1-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp_sw1-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmp_sw2-2026-10-09.jpeg": {
+    "config": "972676cee925fa56cc01ee9ce681440b6bc4f6a473fec048e627dfd3c6a2e8b5",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp_sw2-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp_sw2-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp_sw2-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmp_sw3-2026-10-09.jpeg": {
+    "config": "5e540428eb6feaa9454dc00923a80a53c3cd6a77661670e1ef66cf2bb86ce6b4",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmp_sw3-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmp_sw3-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmp_sw3-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmpb1-2026-10-09.jpeg": {
+    "config": "b5235280fe6fe98b7944c61a3c0bf6c53a1d3b090846942647ae7b7ddd91fedc",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmpb1-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmpb1-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmpb1-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmpb2-2026-10-09.jpeg": {
+    "config": "2903f4793a1aedcb78eb96facacb255579e4a9c151f60cb9d210cb667908a6bf",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/hkmpb2-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/hkmpb2-2026-10-09.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/hkmpb3-2026-10-09.jpeg": {
+    "config": "b54ec2a88af25c1e0d22cd59c961cd254ffeddae1c3da66cbeb79d60e2c55bdd",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/hkmpb3-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/hkmpb3-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/hkmpb3-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/hkmpb4-2026-10-09.jpeg": {
+    "config": "a3824f04d279bac04505b215d68fcb69936ce433a8475384080c16452468ab4c",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmpb4-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmpb4-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmpb4-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmpb5-2026-10-09.jpeg": {
+    "config": "32abba411681097cb55689484ffe8cb956c6ad49630043b89d3e5a4d6fa654c9",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmpb5-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmpb5-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmpb5-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/hkmpb6-2026-10-09.jpeg": {
+    "config": "48270d3b83f405bd9325c9416fb7691b056a4402f1d092847c10da0eb99aaf88",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hkmpb6-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hkmpb6-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hkmpb6-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/hkmpb7-2026-10-09.jpeg": {
+    "config": "de5f8df1dd689f24a32e2e16fc5e118fcde75440d3d805839092e5869ff03e65",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/hkmpb7-2026-10-09.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/hkmpb7-2026-10-09.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/hkmpb7-2026-10-09.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/hotel_morning_walk-2023-10-23.jpeg": {
+    "config": "1f08be9be594656e6684efd454e11e3af44ace5c4aad5cdb1830e8dc0396101c",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/hotel_morning_walk-2023-10-23.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/hotel_morning_walk-2023-10-23.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/hotel_morning_walk-2023-10-23.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/huaqiang_tech_plaza-2023-10-23.jpeg": {
+    "config": "c9fbcbe49af5f85edc59b2815d1551833c2dc8ce97c64e9a53345aa916faa4db",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/huaqiang_tech_plaza-2023-10-23.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/huaqiang_tech_plaza-2023-10-23.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/instrument1-2026-10-14.jpeg": {
+    "config": "cce5bdbecbdb96674e18708db16140b89ae9112e66be16c2a961dbfdbd2c1998",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/instrument1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/instrument1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/instrument1-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/instrument2-2026-10-14.jpeg": {
+    "config": "9c89a322cf6ce9cb03834934fe5f9efcc7fb5c44a83114a0bc79ef5c341f326e",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/instrument2-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/instrument2-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/instrument2-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/jester1-2026-10-14.jpeg": {
+    "config": "a435efa538a9622ef6a4baf3e5c0811430efdd3cfa1f3fa0f46bf77389aba7df",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/jester1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/jester1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/jester2-2026-10-14.jpeg": {
+    "config": "f65a61c064307ceafcfbdf4cb763137a0aad56fb946d05d2ef917b97e964604e",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/jester2-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/jester2-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/jester2-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/kcoffee-2024-09-03-2.jpeg": {
+    "config": "0d069a03842b2c35990cd2369af10bece774f7df7d2723b53825c48ffa1c9456",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/kcoffee-2024-09-03-2.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/kcoffee-2024-09-03-2.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/kichijoji-park1-2026-10-05.jpeg": {
+    "config": "58c704c70b4971f611ac3c7abd6fbc710844ed80558dedcc75439b5d66f2c932",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/kichijoji-park1-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/kichijoji-park1-2026-10-05.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/kichijoji-park1-2026-10-05.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/kichijoji-park2-2026-10-05.jpeg": {
+    "config": "60bcd05c20d1d0af312531ec31e027baa4387722c68857b05a21585f84bf6196",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/kichijoji-park2-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/kichijoji-park2-2026-10-05.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/kichijoji-park2-2026-10-05.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/kichijoji-park3-2026-10-05.jpeg": {
+    "config": "2829832ecc4fb6ac1d68b0bb59c272b28116a22eae85764c947cd5d66acb4acf",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/kichijoji-park3-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/kichijoji-park3-2026-10-05.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/kichijoji-park3-2026-10-05.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/kichijoji-park4-2026-10-05.jpeg": {
+    "config": "dc3debd0fe556dc32a4ac4dfc5b5775ebc8ae20ad6ae154da9f7651821f6173d",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/kichijoji-park4-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/kichijoji-park4-2026-10-05.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/kichijoji-park4-2026-10-05.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/kichijoji1-2026-10-05.jpeg": {
+    "config": "d14fa3eb335152394c4101b1d181f246c8ce49f4f1b2942130d34773bd1af6f1",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/kichijoji1-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/kichijoji1-2026-10-05.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/kichijoji1-2026-10-05.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/kichijoji2-2026-10-05.jpeg": {
+    "config": "46b2234a2741b9865df929ac929e12b58ed1f4c66b3120bd0eea3c5280da8163",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/kichijoji2-2026-10-05.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/kichijoji2-2026-10-05.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/kichijoji2-2026-10-05.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/kingkey101-2023-10-23.jpeg": {
+    "config": "d0cd0623d0a37131e56849692809a62157fa4ad87dc611be4b0f1742c55e9e04",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/kingkey101-2023-10-23.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/kingkey101-2023-10-23.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/kingkey101-2023-10-23.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/kowloon_park1-2026-10-10.jpeg": {
+    "config": "0208fae0451ce54cee2a404f8402a5f65d1d30fc8a01553a04f2f8d311717cda",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/kowloon_park1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/kowloon_park1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/kowloon_park1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/kowloon_park2-2026-10-10.jpeg": {
+    "config": "ff7913389b0d5f02d1d47cc6cf61e6afaa5e7e564e4e2a9759ed07b1cacf0df0",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/kowloon_park2-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/kowloon_park2-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/kowloon_park2-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/lateSnack-2026-10-10.jpeg": {
+    "config": "29c53aa824faa03687a1991aa32c6f9ee92678f52e9e97cefab9f9e2e6770269",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/lateSnack-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/lateSnack-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/lateSnack-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/lost-2026-10-11.jpeg": {
+    "config": "b7426cab5be55b734ae98c3986596e2214c2b4f33f07b44adb6c285a10d3bd4b",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/lost-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/lost-2026-10-11.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/lunch-2026-10-10.jpeg": {
+    "config": "38fba473c2951a77180c099512d0900c5f491f533601d85807fd5ee0cd3b4074",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/lunch-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/lunch-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/lunch-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/museum1-2026-10-10.jpeg": {
+    "config": "0500e16f81ba77b186beff7a07ba781849932e3c71cb762383b3e61da70ed484",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/museum1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/museum1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/museum1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/museum2-2026-10-10.jpeg": {
+    "config": "3b0b827906d89ccf1e61cea439ea85d4c6243c1493f01a5a563cbc18d40b563f",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/museum2-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/museum2-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/museum2-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/museum3-2026-10-10.jpeg": {
+    "config": "7b1e4dd0c50d2dee9885db4bfbf801146a784ffc60b37ceb0ae6d18704dbc733",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/museum3-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/museum3-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/museum3-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/museum4-2026-10-10.jpeg": {
+    "config": "98d954f2eaeb5ec06fd78d7d78b5eef74933d5ce46a8ca0ce0b9e54004135f0a",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/museum4-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/museum4-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/museum4-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/ngong1-2026-10-11.jpeg": {
+    "config": "fbbf4e5e6e0d4e06c9364b8c92828177559d427be490b64e9edd1898bbe6b1a5",
+    "height": 2281,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/ngong1-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/ngong1-2026-10-11.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1283
+  },
+  "/images/nightwalk-wuhan-2023-10-29.jpeg": {
+    "config": "f35afdfc61f9f3fccc212b780e7813cc54359e95778a1c0539883ab17b292297",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/nightwalk-wuhan-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/nightwalk-wuhan-2023-10-29.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/nightwalk-wuhan-2023-10-29.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/noodles-2026-10-17.jpeg": {
+    "config": "a9d58b5790386658fcdddfbc151bfe3bd885c8d4ae6defd25fe6e693f4c0cbe7",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/noodles-2026-10-17.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/noodles-2026-10-17.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/noodles-2026-10-17.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/parasols1-2026-10-14.jpeg": {
+    "config": "c7fb3a3257d0a4a2543bf6867ffbb352179ee78a8c6281e86cd92b2cc6b3c241",
+    "height": 1404,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/parasols1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/parasols1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/parasols1-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2495
+  },
+  "/images/parasols2-2026-10-14.jpeg": {
+    "config": "9e5d8a978940d55be959827b8a4349d920a4a475545e6e1998ca2157cd36c748",
+    "height": 1000,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/parasols2-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/parasols2-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/parasols2-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1778
+  },
+  "/images/plan-2026-10-11.jpeg": {
+    "config": "7c5f48ab2f658699749ee41853b83e68513940ce6a6de5e4688fdf20d13b96b8",
+    "height": 266,
+    "variants": [
+      {
+        "height": 147,
+        "url": "/images/optimized/plan-2026-10-11.jpeg-320.webp",
+        "width": 320
+      }
+    ],
+    "width": 578
+  },
+  "/images/rising-sun0-2026-10-04.jpeg": {
+    "config": "7f53ff0a5fb5cf9a4590cbc0df7f9bea854062f29c0e2c2aa3dce15372da2cfb",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/rising-sun0-2026-10-04.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/rising-sun0-2026-10-04.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/rising-sun0-2026-10-04.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/rising-sun1-2026-10-04.jpeg": {
+    "config": "e532816ea7137b1f6e4737723ecbac61c3749a183cd684c66916dbf1787bd454",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/rising-sun1-2026-10-04.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/rising-sun1-2026-10-04.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/rising-sun1-2026-10-04.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/rising-sun2-2026-10-04.jpeg": {
+    "config": "cbad76c7ec0cb6c28aa6193a45116773e6f6d8c4e6707a5b745f116d89f111d1",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/rising-sun2-2026-10-04.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/rising-sun2-2026-10-04.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/rising-sun2-2026-10-04.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/rising-sun3-2026-10-04.jpeg": {
+    "config": "3cd1e10352163d74315272c35737fa231cf11079651526d46d0805d220667d30",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/rising-sun3-2026-10-04.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/rising-sun3-2026-10-04.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/rising-sun3-2026-10-04.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/salute-2026-10-14.jpeg": {
+    "config": "7bb0c997e9b206cb6a987355a820f62e4a90a441194cb27c8c63b47390f71c6c",
+    "height": 920,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/salute-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/salute-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 901,
+        "url": "/images/optimized/salute-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1634
+  },
+  "/images/shackled-2026-10-14.jpeg": {
+    "config": "3598398218aad934743c15939bffb7ecbab8173477038b6362bb0f38af8bca06",
+    "height": 1095,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/shackled-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/shackled-2026-10-14.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1460
+  },
+  "/images/shanghai-20231031.jpeg": {
+    "config": "90dd4602a3024d149b7cd65020dacf80567cb47c0a2b14bcefdc88bad482afbd",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/shanghai-20231031.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/shanghai-20231031.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/shanghai-20231031.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/shenzhen_airport-2023-10-22.jpeg": {
+    "config": "40c8d579e82d8469bbc4a20fc38c546fd997f0837fcd8b9736eb39f91bbd43f3",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/shenzhen_airport-2023-10-22.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/shenzhen_airport-2023-10-22.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/shenzhen_airport-2023-10-22.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/siguan1-2026-10-17.jpeg": {
+    "config": "ec34ba900b87bc8ef2d6b660e784ba550d24519cfca25c3a0c0c7fb41fbd5466",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/siguan1-2026-10-17.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/siguan1-2026-10-17.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/siguan1-2026-10-17.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/siguan2-2026-10-17.jpeg": {
+    "config": "6b1af15a5fd791779a15c42131e05fbf8ea8108c7e050a4a98f494686c77328c",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/siguan2-2026-10-17.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/siguan2-2026-10-17.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/siguan2-2026-10-17.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/singing1-2026-10-14.jpeg": {
+    "config": "3465139cee7f06bf8eaea539af88873b72db24fa69a09da1e0429d23f6715325",
+    "height": 944,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/singing1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/singing1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 901,
+        "url": "/images/optimized/singing1-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1677
+  },
+  "/images/singing2-2026-10-14.jpeg": {
+    "config": "4473892e8ccfe561f657a63ffd4ba8c8540738ddceef612fb8b1be299cc3719e",
+    "height": 1283,
+    "variants": [
+      {
+        "height": 400,
+        "url": "/images/optimized/singing2-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1000,
+        "url": "/images/optimized/singing2-2026-10-14.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1026
+  },
+  "/images/skating_rink_in_mall-2023-10-24.jpeg": {
+    "config": "f510ad2f3c456eb54535817518758e49939df75aa1361129ac6c436fdb235cf7",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/skating_rink_in_mall-2023-10-24.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/skating_rink_in_mall-2023-10-24.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/skating_rink_in_mall-2023-10-24.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/soba1-2026-10-06.jpeg": {
+    "config": "b024fb7b407f8e54a0a9c4cc934931fecfbd1164b605e94168e98e6cd84a41e5",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/soba1-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/soba1-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/soba1-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/soba2-2026-10-06.jpeg": {
+    "config": "f777ccc7c6f0dfbaf7e0e42806a1f9d17dd5a2561e49ffdf52f28544064651c9",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/soba2-2026-10-06.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/soba2-2026-10-06.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/soba2-2026-10-06.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/songde_village-2019-12-22.jpeg": {
+    "config": "23d13f4e60ef3cc9e7d327cc06805541eb53ef280d566ae94aeec4439fd79440",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/songde_village-2019-12-22.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/songde_village-2019-12-22.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/songde_village-2019-12-22.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/stores-2026-10-17.jpeg": {
+    "config": "65c4253cfef87be9ab46763f0aaaee02c10a5d429fa8e96932f43bcc40a31e69",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/stores-2026-10-17.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/stores-2026-10-17.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/stores-2026-10-17.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/taiwan-songde-village1-2019-12-27.jpeg": {
+    "config": "d8197e7d568e637dd1e009a4621bd82227074bbd9f3845d162758e224a18aa37",
+    "height": 620,
+    "variants": [
+      {
+        "height": 570,
+        "url": "/images/optimized/taiwan-songde-village1-2019-12-27.jpeg-320.webp",
+        "width": 320
+      }
+    ],
+    "width": 348
+  },
+  "/images/taiwan-songde-village2-2019-12-22.jpeg": {
+    "config": "13456d25026d12a1a61dd748fcf87de35e3ee91aa57c66436a5578c73f694390",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/taiwan-songde-village2-2019-12-22.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/taiwan-songde-village2-2019-12-22.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/taiwan-songde-village2-2019-12-22.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/taiwan-songde-village3-2019-12-23.jpeg": {
+    "config": "7c191598c4fe5f11d8acc7fb283f7bcbf45955935a2f9b574eb6a69f2c5754cd",
+    "height": 769,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/taiwan-songde-village3-2019-12-23.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/taiwan-songde-village3-2019-12-23.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1025
+  },
+  "/images/taiwan-songde-village4-2019-12-23.jpeg": {
+    "config": "8b619ad167366ed12eee349d7b100572e23d4c5f6ceffe2226100a2e037a0946",
+    "height": 1836,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/taiwan-songde-village4-2019-12-23.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/taiwan-songde-village4-2019-12-23.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/taiwan-songde-village4-2019-12-23.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/tea1-2026-10-14.jpeg": {
+    "config": "9ab515b20fc46a72e887970ed9b1a299d51d6377c6dcbdfefea7b7781e4d98b3",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/tea1-2026-10-14.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/tea1-2026-10-14.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/tea1-2026-10-14.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/temple1-2026-10-11.jpeg": {
+    "config": "843e218f76b289ae07e02b5d21fd6ca69bb9285e752f5055caf96863f2c5b3ec",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/temple1-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/temple1-2026-10-11.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/temple1-2026-10-11.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/templeWalk1-2026-10-10.jpeg": {
+    "config": "ca514f5c64cd606714ae2fa0d22cd2980147d28f99318791ba2fc9d17d9b066a",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/templeWalk1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/templeWalk1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/templeWalk1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/templeWalk2-2026-10-10.jpeg": {
+    "config": "c409ac3ba3251853fed59efa2fdef419e95fb3686c85a9eacefeed4c946533c2",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/templeWalk2-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/templeWalk2-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/templeWalk2-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/top1-2026-10-10.jpeg": {
+    "config": "ece3086c5785fc0f4abbfc64d57b18aca92340192ce0f34500b4162e87b0c77a",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/top1-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/top1-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/top1-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/top2-2026-10-10.jpeg": {
+    "config": "83251a2e3cae350c9703e47737bd2a329298762013935115c146345c6281793e",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/top2-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/top2-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/top2-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/top4-2026-10-10.jpeg": {
+    "config": "f80e5be6f680986ee782e83580c187e35f9bf74a7e63ad6c7ae40716cacfafdb",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/top4-2026-10-10.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/top4-2026-10-10.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/top4-2026-10-10.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
+  "/images/train-finn-2026-10-12.jpeg": {
+    "config": "6f5c5134fd4942bb436175db5dadcdca5e34f5cd21a84336548c07e0e68a2325",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/train-finn-2026-10-12.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/train-finn-2026-10-12.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/trio-2026-10-11.jpeg": {
+    "config": "e8cf792dca2257f4b5e2a550a28a49c9e714eb687a614ac891e95291f8067fe6",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/trio-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/trio-2026-10-11.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2133,
+        "url": "/images/optimized/trio-2026-10-11.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2142
+  },
+  "/images/wave-2026-10-11.jpeg": {
+    "config": "6e54ff1df383622502cdead09df04363ffbef9f0a4d76c5729145f3bdfcf8464",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/wave-2026-10-11.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/wave-2026-10-11.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/wave-2026-10-11.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/wuhan-breakfast1-2023-10-26.jpeg": {
+    "config": "42aab2c589d5e169486ced31b8d30ee66e2b52d50a86aabc73b2a0a63d06e78c",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/wuhan-breakfast1-2023-10-26.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/wuhan-breakfast1-2023-10-26.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/wuhan-breakfast1-2023-10-26.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/wuhan-breakfast2-2023-10-26.jpeg": {
+    "config": "b4222dee1ac658b67f7cb25ca1f031c1f28d825f3c1bcb01e5d0343a7059118d",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/wuhan-breakfast2-2023-10-26.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/wuhan-breakfast2-2023-10-26.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/wuhan-breakfast3-2023-10-26.jpeg": {
+    "config": "80c4bcb3d7f1cd85d1eb1537077e98587f79a56ab92db2eecc3e7f529248416d",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/wuhan-breakfast3-2023-10-26.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/wuhan-breakfast3-2023-10-26.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/wuhan-breakfast3-2023-10-26.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/wuhan-mall-fresh-durian1-2023-10-29.jpeg": {
+    "config": "0d300db8b0e72e1ced04740fb77c4af9155b06328051e9477d0ca3871cb250b2",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/wuhan-mall-fresh-durian1-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/wuhan-mall-fresh-durian1-2023-10-29.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/wuhan-mall-inside1-2023-10-29.jpeg": {
+    "config": "64eb31dae7c410f7fe90b367d9921fb2203314beda1e0ca0e3faa2568225caf1",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/wuhan-mall-inside1-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/wuhan-mall-inside1-2023-10-29.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/wuhan-mall-outside1-2023-10-29.jpeg": {
+    "config": "84b58f188aaeb8852261d1a89aa7f51bddec9fd3f6c9eb29a9070d455bf9e6f3",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/wuhan-mall-outside1-2023-10-29.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/wuhan-mall-outside1-2023-10-29.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/wuhan-mall1-2023-10-30.jpeg": {
+    "config": "c86f425782b05478a60942a6a54aa36ec66d67c1e5f79b2dace72aee28ad4113",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/wuhan-mall1-2023-10-30.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/wuhan-mall1-2023-10-30.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/wuhan-mall2-2023-10-30.jpeg": {
+    "config": "789e68e0b905476ccc3004453dc6fc9538fde4bca5af19564d354d4cf8a060d4",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/wuhan-mall2-2023-10-30.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/wuhan-mall2-2023-10-30.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/wuhan-mall3-2023-10-30.jpeg": {
+    "config": "07ddc6f9d48b72da58cbe6f89c9a5c907349ecdf6f8e1520aa70c2c5ed1bc152",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/wuhan-mall3-2023-10-30.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/wuhan-mall3-2023-10-30.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/wuhan-mall4-2023-10-30.jpeg": {
+    "config": "7a3b0a1661a5012948201ee36f61eefedb50a79175718110cd2659eab84c27a6",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/wuhan-mall4-2023-10-30.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/wuhan-mall4-2023-10-30.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/wuhan-mall4-2023-10-30.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/wuhan-mall5-2023-10-30.jpeg": {
+    "config": "3f40cd009ffa98b8da0d4be8bc807de33e353b7b69417b8bb827d737cd5b89fc",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/wuhan-mall5-2023-10-30.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/wuhan-mall5-2023-10-30.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/wuhan-mall5-2023-10-30.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/yct1-2023-10-27.jpeg": {
+    "config": "4d454c27457f74c2c2cda7360e92feccee4037912a6ad157b5b4e4bbd633bd51",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/yct1-2023-10-27.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/yct1-2023-10-27.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/yct1-2023-10-27.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/yct2-2023-10-27.jpeg": {
+    "config": "6b6a3d1b993c28a9480454c44fb11ce95ebd4aad6e077239d8ab65692423e520",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/yct2-2023-10-27.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/yct2-2023-10-27.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/yct2-2023-10-27.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/yct4-2023-10-27.jpeg": {
+    "config": "6298222914c56513062434acc8dc9cc4cedd9c9b08dbc657ed63ab9450fb6c52",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/yct4-2023-10-27.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/yct4-2023-10-27.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/yellow-crane-tower2-2023-10-27.jpeg": {
+    "config": "16d063c0eecd2649df57a45561507d7a6ab7bd5fdf902601eebc44e39945030c",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/yellow-crane-tower2-2023-10-27.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/yellow-crane-tower2-2023-10-27.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/yellow-crane-tower2-2023-10-27.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  }
+}
