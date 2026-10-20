@@ -39,7 +39,7 @@ Fortunately, the journey itself made up for the ordeal. The cable car carries yo
 
 {% include responsive-image.html src="/images/gondola_view3-2026-10-11.jpeg" alt="View from the cable car" article=true %}
 
-As the cable car approaches Ngong Ping, the Big Buddha gradually comes into view. Even from a distance, the sheer size of the bronze statue is striking. It sits high above the surrounding landscape, becoming more imposing the closer you get.
+As the cable car approaches Ngong Ping, the Big Buddha gradually comes into view. 
 
 At the top, you're greeted by Ngong Ping Village, a collection of cafés, souvenir shops, and even a Starbucks.
 

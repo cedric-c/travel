@@ -146,7 +146,7 @@ I was happy to be there for it. I'd been spending this trip discovering things t
 
 Of course, she made the rookie mistake of biting directly into a hot pepper. We've all made that mistake once.
 
-Maybe you get to experience something for the first time twice: once yourself, and again through someone else's eyes. I hadn't expected Indian food to be one of my favourite memories of Hong Kong, but here we are.
+You get to experience something for the first time twice: once yourself, and again through the etes of someone else. I hadn't expected Indian food to be one of my favourite memories of Hong Kong, but here we are.
 
 Leo also treated me to a beer and a tart, and covered the cab ride back down. We'd only met a few hours earlier.
 

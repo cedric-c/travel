@@ -42,6 +42,4 @@ Then there’s the idea of eating noodles for breakfast. Something I originally 
 
 And, of course, there’s cilantro. Not really an unusual combination of anything. It just exists, minding its own business, somehow managing to divide the entire population.
 
-I suppose the lesson here is that some things are worth trying before deciding they’re terrible.
-
 And if you still hate espresso tonic, well, more for me.
