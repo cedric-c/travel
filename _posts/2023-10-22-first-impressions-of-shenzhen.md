@@ -3,6 +3,7 @@ layout: post
 title: "First Impressions of Shenzhen"
 locations: [Shenzhen, China]
 image: /images/hotel_morning_walk-2023-10-23.jpeg
+description: "Harbour sunrises, an absurdly fast elevator, and enough electronics to keep me occupied. Shenzhen made quite a first impression."
 ---
 
 I landed in Shenzhen at an airport that felt enormous by my Ottawa standards. It was my first impression of the city's scale.

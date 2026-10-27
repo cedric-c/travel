@@ -4,6 +4,7 @@ date: 2026-10-14 13:00:00 +0800
 title: "Ciqikou: Tea, Theatre, and a Pricey Lesson"
 locations: [Chongqing, China]
 image: /images/fire1-2026-10-14.jpeg
+description: "I went to Ciqikou for sightseeing and lunch. I left with expensive tea, Mandarin practice, and an unexpected afternoon of fire and face-changing."
 ---
 
 I spent the afternoon wandering through Ciqikou Ancient Town, taking in the old streets, shops, and general bustle.

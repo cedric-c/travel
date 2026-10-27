@@ -4,6 +4,7 @@ date: 2026-10-12 8:00:00 +0800
 title: "Bye-Bye Hong Kong, Hello Chongqing"
 locations: [Chongqing, China]
 image: /images/train-finn-2026-10-12.jpeg
+description: "A wrong Tesla, some questionable Mandarin, and a seven-hour train ride made short by a new friend. Leaving Hong Kong for Chongqing."
 ---
 
 

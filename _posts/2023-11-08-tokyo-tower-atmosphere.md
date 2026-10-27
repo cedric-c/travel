@@ -3,6 +3,7 @@ layout: post
 title: "Tokyo Tower Atmosphere"
 locations: [Tokyo, Japan]
 image: /images/Tokyo-tower-outside-20231108.jpeg
+description: "Endless blinking red lights from above, a warm orange glow from below. Tokyo Tower made a convincing case for staying out after dark."
 ---
 
 Tokyo Tower was especially beautiful in the evening. At the top, I looked out at red lights blinking across the city. They seemed to go on forever, an endless sea of red in the dark. I stayed with that view for a while.

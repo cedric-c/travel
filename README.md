@@ -26,6 +26,7 @@ Start it with front matter, then write normally in Markdown:
 ---
 layout: post
 title: "A day in Kyoto / 京都的一天"
+description: "A quiet Kyoto lane, a good meal, and another chance to put my Mandarin to the test."
 locations: [Kyoto, Japan]
 ---
 
@@ -35,6 +36,8 @@ English text here.
 
 中文写在这里。
 ```
+
+Set `description` to a short, plain-text summary of the story. It supplies the homepage preview and the article's description metadata through `jekyll-seo-tag`. Descriptions are shown in full on the homepage; keep them concise (roughly 100–160 characters). If a future post omits it, the homepage falls back to an excerpt shortened at a word boundary.
 
 The home page filters entries by year (from the filename date) and location. Set `locations` to a list of place names, such as `[Kyoto, Japan]`, using the same names across related posts. Every listed place appears in the filter, and all places appear below the date on the home page. Posts without `locations` appear under **Unspecified**. Filters work together and are applied in the browser; posts remain visible if JavaScript is unavailable.
 

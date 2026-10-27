@@ -4,6 +4,7 @@ date: 2026-10-17 11:00:00 +0800
 title: "Chengdu: Pea Noodles, Clean Shirts, and Selective Comprehension"
 locations: [Chengdu, China]
 image: /images/bridge-2026-10-17.jpeg
+description: "Nine floors of clothes, one overpriced luggage lock, and pea noodles on my shirt. By evening, even choosing which language to speak was going poorly."
 ---
 
 My first order of business after arriving at my hotel in Chengdu was to find a luggage lock, because apparently hotel room safes are overrated here.

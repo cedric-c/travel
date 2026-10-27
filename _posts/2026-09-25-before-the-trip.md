@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Before the trip / 出发之前"
+description: "Tokyo, Hong Kong, and Chongqing are next. A place for photos, conversations, food, and Mandarin practice that won't fit neatly into an itinerary."
 ---
 
 October is almost here. I'm heading from Ottawa to Tokyo, Hong Kong, and Chongqing, and I wanted a place for the things that don't fit neatly into an itinerary.

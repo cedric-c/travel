@@ -3,6 +3,7 @@ layout: post
 title: "The Main Attraction"
 image: /images/buddha1-2026-10-11.jpeg
 locations: [Hong Kong, China]
+description: "The Big Buddha promised mountain views. Getting there required a cable car, 268 steps, and a preliminary test of spiritual patience."
 ---
 
 Another morning, another breakfast recommendation from Yoyo. When I mentioned my plans to take the train to Chongqing, she told me she'd taken the train there herself but flown back. For reasons. Apparently, the train was worth trying once, but not necessarily twice.
