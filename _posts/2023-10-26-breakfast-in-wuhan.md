@@ -2,6 +2,7 @@
 layout: post
 title: "Breakfast in Wuhan"
 locations: [Wuhan, China]
+description: "A long breakfast lineup in Wuhan led to juicy steamed buns and hot dry noodles. Some things are worth getting out of bed for."
 ---
 
 The lineup outside the breakfast shop was long. I took that as a sign that the food would be good.

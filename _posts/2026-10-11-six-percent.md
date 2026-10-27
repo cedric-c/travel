@@ -2,6 +2,7 @@
 layout: post
 title: "Eight Tentacles, Six Percent"
 locations: [Hong Kong, China]
+description: "I wanted milk tea in Hong Kong. The Octopus app wanted a 6% fee. A small financial disagreement involving an eight-legged wallet inspector."
 ---
 
 I was getting milk tea from Gong Cha when I discovered that the lady behind the counter unfortunately did not accept Visa. She did, however, accept something known as an Octopus Card, which is, in theory (do you see the foreshadowing yet?), a very practical way to pay for things and use public transit in Hong Kong.

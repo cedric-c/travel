@@ -90,7 +90,12 @@ layout: default
       {% endif %}
       <div class="entry-body">
         <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-      {% if post.excerpt %}<p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 170 }}</p>{% endif %}
+      {% assign entry_description = post.description | default: '' | strip %}
+      {% if entry_description != '' %}
+        <p>{{ entry_description | normalize_whitespace | escape }}</p>
+      {% elsif post.excerpt %}
+        <p>{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 | escape }}</p>
+      {% endif %}
         <a class="entry-read" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">Read entry <span aria-hidden="true">→</span></a>
       </div>
     </div>

@@ -2,6 +2,7 @@
 layout: post
 title: "Arriving in Japan"
 locations: [Tokyo, Japan]
+description: "Made it to Tokyo. Jet lag also made it. A brief entry from my first evening in Japan."
 ---
 
 Made it to Tokyo. Jet lag also made it.

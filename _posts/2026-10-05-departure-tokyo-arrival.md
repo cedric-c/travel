@@ -3,6 +3,7 @@ layout: post
 title: "Ottawa Departure and Tokyo Arrival / 离开渥太华，到东京"
 locations: [Kichijoji, Tokyo, Japan]
 image: /images/rising-sun2-2026-10-04.jpeg
+description: "A park in Kichijoji, a failed attempt to order baozi in Mandarin, and politics with a stranger at a bar. A respectable first day in Tokyo."
 ---
 
 The flight from Ottawa to Newark went off without a hitch. Two-ish hours in the air, with a sunrise thrown in:
