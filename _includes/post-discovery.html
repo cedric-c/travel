@@ -1,0 +1,74 @@
+{% comment %}
+  Jekyll's previous/next links follow publication order. Related stories prefer
+  the same primary location, then shared locations, with newest posts breaking
+  ties and filling any remaining spaces. The current post is never included.
+{% endcomment %}
+<div class="post-discovery">
+  {% if page.previous or page.next %}
+  <nav class="post-pagination" aria-label="Previous and next journal entries">
+    {% if page.previous %}
+    <a class="post-pagination-link" href="{{ page.previous.url | relative_url }}" rel="prev">
+      <span class="post-discovery-label">← Previous entry</span>
+      <span class="post-pagination-title">{{ page.previous.title | escape }}</span>
+    </a>
+    {% endif %}
+    {% if page.next %}
+    <a class="post-pagination-link post-pagination-next" href="{{ page.next.url | relative_url }}" rel="next">
+      <span class="post-discovery-label">Next entry →</span>
+      <span class="post-pagination-title">{{ page.next.title | escape }}</span>
+    </a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+  {% assign related_posts = '' | split: ',' %}
+  {% for slot in (1..2) %}
+    {% assign related_best = nil %}
+    {% assign related_best_score = -1 %}
+    {% assign related_urls = related_posts | map: 'url' %}
+    {% for candidate in site.posts %}
+      {% if candidate.url == page.url %}{% continue %}{% endif %}
+      {% if related_urls contains candidate.url %}{% continue %}{% endif %}
+      {% assign related_score = 0 %}
+      {% for location in page.locations %}
+        {% if candidate.locations contains location %}
+          {% assign related_score = related_score | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+      {% if page.locations.first and candidate.locations.first == page.locations.first %}
+        {% assign related_score = related_score | plus: 10 %}
+      {% endif %}
+      {% if related_score > related_best_score %}
+        {% assign related_best = candidate %}
+        {% assign related_best_score = related_score %}
+      {% endif %}
+    {% endfor %}
+    {% if related_best %}
+      {% assign related_selection = site.posts | where: 'url', related_best.url %}
+      {% assign related_posts = related_posts | concat: related_selection %}
+    {% endif %}
+  {% endfor %}
+
+  {% if related_posts.size > 0 %}
+  <section class="post-related" aria-labelledby="post-related-title">
+    <h2 id="post-related-title">Keep reading</h2>
+    <div class="post-related-grid">
+      {% for related in related_posts %}
+      <article class="post-related-card">
+        {% if related.image %}
+        <a class="post-related-image" href="{{ related.url | relative_url }}" tabindex="-1" aria-hidden="true">
+          {% include responsive-image.html src=related.image alt="" sizes="(max-width: 600px) calc(100vw - 40px), 336px" %}
+        </a>
+        {% endif %}
+        <time class="post-discovery-label" datetime="{{ related.date | date_to_xmlschema }}">{{ related.date | date: "%d %b %Y" }}</time>
+        <h3><a href="{{ related.url | relative_url }}">{{ related.title | escape }}</a></h3>
+        {% if related.description %}
+        <p>{{ related.description | normalize_whitespace | escape }}</p>
+        {% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+  <a class="post-journal-link" href="{{ '/' | relative_url }}#entries">All journal entries →</a>
+</div>
