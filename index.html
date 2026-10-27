@@ -1,9 +1,35 @@
 ---
 layout: default
+selected_stories:
+  - /2026/10/17/hello-chengdu
+  - /2026/10/14/chongqing-1949
+  - /2026/10/10/hear-me-out
 ---
 
 <style>
   /* Kept with the index so its layout is not dependent on a cached main.css. */
+  .intro.home-intro { padding: 42px 0 32px; }
+  .intro.home-intro h1 { margin: 14px 0 12px; font-size: clamp(44px, 7vw, 68px); line-height: 1.05; }
+  .intro.home-intro p { max-width: 650px; margin-bottom: 16px; font-size: 17px; }
+  .home-intro .intro-tagline { color: #a34832; font-style: italic; font-size: 16px; margin-bottom: 10px; }
+  .selected-stories { padding: 28px 0 32px; border-bottom: 1px solid #d8d8ce; }
+  .selected-stories .section-heading { margin-bottom: 20px; }
+  .selected-stories h2 { margin: 0; }
+  .selected-story-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; list-style: none; margin: 0; padding: 0; }
+  .selected-story { min-width: 0; }
+  .selected-story-link { display: flex; align-items: flex-start; gap: 12px; color: #26352f; text-decoration: none; }
+  .selected-story-link:visited { color: #26352f; }
+  .selected-story-link:hover, .selected-story-link:focus { color: #a34832; text-decoration: none; }
+  .selected-story-link:focus-visible { outline: 2px solid #a34832; outline-offset: 5px; }
+  .selected-story-link img { flex: 0 0 56px; width: 56px; height: 56px; max-width: none; object-fit: cover; border-radius: 4px; }
+  .selected-story h3 { margin: 0; font: normal 23px/1.15 "Cormorant Garamond", "Noto Serif SC", Georgia, serif; letter-spacing: -.025em; overflow-wrap: anywhere; }
+  .selected-story p { margin: 12px 0 0; color: #59635b; font-size: 14px; line-height: 1.6; }
+  .entries { padding-top: 32px; }
+  .entry-toolbar { display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-bottom: 20px; }
+  .entry-toolbar .section-heading { display: block; margin: 0; }
+  .entry-toolbar h2 { margin: 0 0 6px; }
+  .entry-toolbar .entry-filters { margin: 0; gap: 12px; }
+  .entry-toolbar .entry-filter { min-width: 0; max-width: 190px; }
   .entries .entry-content {
     display: flex;
     flex-direction: row;
@@ -30,48 +56,78 @@ layout: default
   .entries .entry:first-of-type .entry-thumbnail { width: 100%; margin-bottom: 22px; }
   .entries .entry:first-of-type .entry-thumbnail img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
   @media (max-width: 600px) {
+    .intro.home-intro { padding: 30px 0 26px; }
+    .selected-story-list { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+    .selected-story p { margin-top: 8px; }
+    .entry-toolbar { flex-direction: column; }
+    .entry-toolbar .entry-filters { width: 100%; }
+    .entry-toolbar .entry-filter { flex: 1 1 120px; max-width: none; }
     .entries .entry-content { gap: 14px; }
     .entries .entry-thumbnail { flex-basis: 88px; width: 88px; }
     .entries .entry-thumbnail img { width: 88px; height: 88px; }
   }
 </style>
 
-<section class="intro" aria-labelledby="intro-title">
+<section class="intro home-intro" aria-labelledby="intro-title">
   <div class="intro-kicker">A journal from the road <span aria-hidden="true">✦</span> 路上的日记</div>
-  <h1 id="intro-title">A little further<br><em>every day.</em></h1>
-  <p>Photographs, passing thoughts, and small discoveries — written in English and Mandarin as I go.</p>
-  <a class="intro-link" href="#entries">Read the journal <span aria-hidden="true">↗</span></a>
+  <h1 id="intro-title">{{ site.title | escape }}</h1>
+  <p class="intro-tagline">A little further every day.</p>
+  <p>I'm Cédric, a French Canadian travelling through Asia and learning Mandarin along the way. These are my photographs and stories about the food, places, and people I meet.</p>
+  <a class="intro-link" href="#entries">Latest entries <span aria-hidden="true">↓</span></a>
+</section>
+
+<section class="selected-stories" aria-labelledby="selected-stories-title">
+  <div class="section-heading">
+    <h2 id="selected-stories-title">Start here</h2>
+  </div>
+  <ul class="selected-story-list">
+    {% for story_id in page.selected_stories %}
+      {% assign story = site.posts | where: 'id', story_id | first %}
+      {% if story %}
+    <li class="selected-story">
+      <a class="selected-story-link" href="{{ story.url | relative_url }}">
+        {% if story.image %}{% include responsive-image.html src=story.image alt="" sizes="56px" %}{% endif %}
+        <h3>{{ story.title | escape }}</h3>
+      </a>
+      {% assign story_description = story.description | default: story.excerpt %}
+      <p>{{ story_description | strip_html | normalize_whitespace | escape }}</p>
+    </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </section>
 
 <section class="entries" id="entries" aria-labelledby="entries-title">
-  <div class="section-heading">
-    <h2 id="entries-title">Journal</h2>
-    <span id="entry-count" role="status" aria-live="polite">游记 · {{ site.posts.size }} {% if site.posts.size == 1 %}entry{% else %}entries{% endif %}</span>
-  </div>
-  <div class="entry-filters" id="entry-filters" hidden>
-    <div class="entry-filter">
-      <label for="filter-year">Year</label>
-      <select id="filter-year"><option value="">All years</option>
-        {% assign years = site.posts | group_by_exp: 'post', "post.date | date: '%Y'" %}
-        {% for year in years %}<option value="{{ year.name }}">{{ year.name }}</option>{% endfor %}
-      </select>
+  <div class="entry-toolbar">
+    <div class="section-heading">
+      <h2 id="entries-title">Latest entries</h2>
+      <span id="entry-count" role="status" aria-live="polite">游记 · {{ site.posts.size }} {% if site.posts.size == 1 %}entry{% else %}entries{% endif %}</span>
     </div>
-    <div class="entry-filter">
-      <label for="filter-location">Location</label>
-      <select id="filter-location"><option value="">All locations</option>
-        {% assign locations = '' | split: ',' %}
-        {% assign has_unlocated = false %}
-        {% for post in site.posts %}
-          {% if post.locations and post.locations.size > 0 %}
-            {% assign locations = locations | concat: post.locations %}
-          {% else %}
-            {% assign has_unlocated = true %}
-          {% endif %}
-        {% endfor %}
-        {% assign locations = locations | uniq | sort %}
-        {% for location in locations %}<option value="{{ location | escape }}">{{ location | escape }}</option>{% endfor %}
-        {% if has_unlocated %}<option value="__unspecified__">Unspecified</option>{% endif %}
-      </select>
+    <div class="entry-filters" id="entry-filters" hidden>
+      <div class="entry-filter">
+        <label for="filter-year">Year</label>
+        <select id="filter-year"><option value="">All years</option>
+          {% assign years = site.posts | group_by_exp: 'post', "post.date | date: '%Y'" %}
+          {% for year in years %}<option value="{{ year.name }}">{{ year.name }}</option>{% endfor %}
+        </select>
+      </div>
+      <div class="entry-filter">
+        <label for="filter-location">Location</label>
+        <select id="filter-location"><option value="">All locations</option>
+          {% assign locations = '' | split: ',' %}
+          {% assign has_unlocated = false %}
+          {% for post in site.posts %}
+            {% if post.locations and post.locations.size > 0 %}
+              {% assign locations = locations | concat: post.locations %}
+            {% else %}
+              {% assign has_unlocated = true %}
+            {% endif %}
+          {% endfor %}
+          {% assign locations = locations | uniq | sort %}
+          {% for location in locations %}<option value="{{ location | escape }}">{{ location | escape }}</option>{% endfor %}
+          {% if has_unlocated %}<option value="__unspecified__">Unspecified</option>{% endif %}
+        </select>
+      </div>
     </div>
   </div>
   <p class="entry-empty" id="entry-empty" hidden>No entries match these filters.</p>
@@ -107,7 +163,7 @@ layout: default
     const filters = document.getElementById('entry-filters');
     const year = document.getElementById('filter-year');
     const location = document.getElementById('filter-location');
-    const entries = [...document.querySelectorAll('.entry')];
+    const entries = [...document.querySelectorAll('#entries .entry')];
     const count = document.getElementById('entry-count');
     const empty = document.getElementById('entry-empty');
 
