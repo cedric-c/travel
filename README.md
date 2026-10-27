@@ -41,6 +41,10 @@ Set `description` to a short, plain-text summary of the story. It supplies the h
 
 The home page filters entries by year (from the filename date) and location. Set `locations` to a list of place names, such as `[Kyoto, Japan]`, using the same names across related posts. Every listed place appears in the filter, and all places appear below the date on the home page. Posts without `locations` appear under **Unspecified**. Filters work together and are applied in the browser; posts remain visible if JavaScript is unavailable.
 
+## Homepage selections
+
+The compact **Start here** section is curated through `selected_stories` in `index.html` front matter. List post IDs in display order, for example `/2026/10/17/hello-chengdu` (no trailing slash). Each selection uses the post's title, image, and description. The chronological **Latest entries** feed and its filters remain separate.
+
 ## Reading between entries
 
 Every post includes links to the previous and next entries in publication order, plus up to two stories under **Keep reading**. Recommendations prefer the same primary location (the first item in `locations`), then overlapping locations. Newer entries break ties and fill any remaining slots. The current entry and duplicate recommendations are excluded. This is rendered by Jekyll and works without JavaScript.
