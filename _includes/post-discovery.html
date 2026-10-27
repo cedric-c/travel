@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="{{ '/assets/post-discovery.css' | relative_url }}">
 {% comment %}
   Jekyll's previous/next links follow publication order. Related stories prefer
   the same primary location, then shared locations, with newest posts breaking
@@ -55,11 +56,6 @@
     <div class="post-related-grid">
       {% for related in related_posts %}
       <article class="post-related-card">
-        {% if related.image %}
-        <a class="post-related-image" href="{{ related.url | relative_url }}" tabindex="-1" aria-hidden="true">
-          {% include responsive-image.html src=related.image alt="" sizes="(max-width: 600px) calc(100vw - 40px), 336px" %}
-        </a>
-        {% endif %}
         <time class="post-discovery-label" datetime="{{ related.date | date_to_xmlschema }}">{{ related.date | date: "%d %b %Y" }}</time>
         <h3><a href="{{ related.url | relative_url }}">{{ related.title | escape }}</a></h3>
         {% if related.description %}

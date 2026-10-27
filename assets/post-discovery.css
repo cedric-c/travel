@@ -1,0 +1,72 @@
+/* Loaded alongside article navigation so cached main.css cannot hide its layout. */
+.post-discovery {
+  max-width: 700px;
+  margin: 64px auto 0;
+}
+.post-discovery a { color: #a34832; }
+.post-discovery a:hover { color: #713522; }
+.post-discovery a:focus-visible { outline: 2px solid #a34832; outline-offset: 5px; }
+.post-pagination {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 48px;
+  row-gap: 28px;
+  padding: 32px 0;
+  border-top: 1px solid #d8d8ce;
+  border-bottom: 1px solid #d8d8ce;
+}
+.post-pagination-link {
+  display: block;
+  min-width: 0;
+  padding: 8px 0;
+  text-decoration: none;
+}
+.post-pagination-next { grid-column: 2; text-align: right; }
+.post-discovery-label {
+  display: block;
+  color: #59635b;
+  font: 500 11px/1.5 Inter, -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+.post-pagination-title {
+  display: block;
+  margin-top: 12px;
+  font-size: 21px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.post-related { margin-top: 44px; }
+.post-related h2 {
+  margin: 0 0 8px;
+  font: normal 32px/1.2 "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+  letter-spacing: -.025em;
+}
+.post-related-grid { display: grid; grid-template-columns: minmax(0, 1fr); }
+.post-related-card { min-width: 0; padding: 26px 0; }
+.post-related-card + .post-related-card { border-top: 1px solid #dfddd4; }
+.post-related-card h3 {
+  margin: 10px 0;
+  font: normal 27px/1.25 "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
+  letter-spacing: -.02em;
+  overflow-wrap: anywhere;
+}
+.post-related-card h3 a, .post-related-card h3 a:visited { color: #26352f; text-decoration: none; }
+.post-related-card h3 a:hover, .post-related-card h3 a:focus { color: #a34832; text-decoration: underline; }
+.post-related-card p { max-width: 620px; margin: 0; color: #59635b; font-size: 16px; line-height: 1.7; }
+.post-journal-link {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 12px 0;
+  font: 600 12px/1.5 Inter, -apple-system, BlinkMacSystemFont, sans-serif;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+@media (max-width: 600px) {
+  .post-discovery { margin-top: 48px; }
+  .post-pagination { grid-template-columns: minmax(0, 1fr); row-gap: 24px; padding: 26px 0; }
+  .post-pagination-next { grid-column: auto; text-align: left; }
+  .post-pagination-link + .post-pagination-link { padding-top: 24px; border-top: 1px solid #dfddd4; }
+  .post-pagination-title { font-size: 20px; }
+  .post-related { margin-top: 36px; }
+}
