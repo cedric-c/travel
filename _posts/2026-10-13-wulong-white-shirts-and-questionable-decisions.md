@@ -153,6 +153,8 @@ A fitting conclusion to his approach to logistics.
 
 We eventually made it back to our respective hotels and agreed to meet for hot pot later that evening. After spending the day together, it felt right to finish it around a table.
 
+{% include responsive-image.html src="/images/hotpot-2026-10-13.jpeg" alt="Scenery at Wujiang Gallery" article=true %}
+
 Really glad I got to meet this gang. The scenery was spectacular, but the company supplied most of the laughs.
 
 Hope our paths cross again.
