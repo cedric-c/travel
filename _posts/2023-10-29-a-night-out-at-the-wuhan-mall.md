@@ -6,7 +6,7 @@ image: /images/going-to-wuhan-mall1-2023-10-29.jpeg
 description: "Fresh durian on the way, gleaming cars inside, and tech stores I couldn't resist. An evening at the mall, Wuhan-style."
 ---
 
-It was around 8:30 p.m. on the way to the mall, and the streets were still full of people. By Ottawa standards, it felt late for a crowd like that. Vendors lined the way, including one selling fresh durian at a price I could hardly believe by Ottawa standards.
+It was around 8:30 p.m. on the way to the mall, and the streets were still full of people. By Ottawa standards, it felt late for a crowd like that. Vendors lined the way, including one selling fresh durian at a price I could hardly believe.
 
 {% include responsive-image.html src="/images/going-to-wuhan-mall1-2023-10-29.jpeg" alt="Crowded Wuhan street on the way to the mall at night" article=true %}
 
