@@ -44,7 +44,7 @@ From there, we drove to a restaurant. The driver had asked whether we wanted lun
 
 It was 10:30 a.m.
 
-My mouth was still recovering from breakfast. The itinerary was beginning to feel like someone had squeezed in as many activities as possible without giving much thought to when people might actually want to do them.
+My mouth was still recovering from breakfast. Who eats lunch at 10:30 when they’re still working through the consequences of their noodles? Whoever planned this trip had accounted for plenty of activities. Digestion hadn’t made the itinerary.
 
 We didn’t eat, but I did get to use a squat toilet. Another opportunity for personal growth.
 
@@ -56,7 +56,7 @@ Sleeveless shirt. Shorts. Mountain excursion.
 
 I’m Canadian. I understand that mountains can be cold. Apparently, I require a practical demonstration from time to time.
 
-I’d checked the weather that morning, but whatever forecast I’d looked at was becoming less reassuring with every kilometre. I’d imagined somewhere half an hour away. We kept driving. Then climbing. Then driving some more.
+I’d checked the weather that morning. For where, exactly, was becoming an increasingly relevant question. I’d imagined somewhere half an hour away, but we kept driving and climbing. How far up were we going? How cold was it going to get? And why had I chosen today to finally dress for yesterday’s weather?
 
 From the front passenger seat, I’d turned around a few times and noticed how much clothing everyone else was wearing. Back in Chongqing, that had seemed excessive. As we climbed into the mountains, it started looking suspiciously competent.
 
@@ -64,13 +64,13 @@ Thankfully, Jack had packed with roughly the same foresight. By the time we arri
 
 We found ponchos for 30 yuan.
 
-Honestly, underpriced. Given my position, they could have extracted a considerable premium.
+Thirty yuan to rescue me from my own planning. Honestly, they could have charged considerably more. I wasn’t exactly in a position to walk away.
 
 {% include responsive-image.html src="/images/poncho-2026-10-12.jpeg" alt="Jack and me in matching ponchos" article=true %}
 
-Fairy Mountain turned out to be an expanse of green pastures dotted with sheep and other grazing animals. Perfectly pleasant, but also familiar territory for a Canadian, a Brit, and a German.
+Fairy Mountain turned out to be green pastures, sheep, and other grazing animals. I’d travelled all this way, worried about freezing, bought emergency clothing, and arrived at something that looked quite a bit like the countryside back home. Jack and Alois seemed similarly underwhelmed.
 
-For Jenna, Mia, and Winnie, it seemed to hold more novelty. Fair enough. When you live somewhere like Chongqing, where grass is considerably harder to come by than concrete, I can see the appeal. If you’ve spent time around fields and livestock back home, you’re probably hoping for something a little different after driving all that way.
+Jenna, Mia, and Winnie seemed more interested. Fair enough. If you live somewhere like Chongqing, I can see the appeal of open fields and grazing sheep. Personally, I’d been hoping for something I couldn’t find outside Ottawa.
 
 We did, however, provide some novelty for everyone else.
 
@@ -99,7 +99,9 @@ Between the skewers and the drinks, the grasslands had begun to make a stronger 
 
 Alois and the girls went for a longer walk. Jack and I were ready to come down.
 
-Back at the van, our driver continued to demonstrate his unusual relationship with time. He stopped for fuel with all of us sitting in the vehicle, despite having just had roughly an hour and a half to do it while we were away.
+Back in the van, we stopped for fuel. We’d just spent roughly an hour and a half wandering around without him. Couldn’t he have filled up then? Jack wondered.
+
+An excellent question, especially considering that Jack’s bathroom break had prompted an impatient series of honks. We could all sit and watch the van refuel, but apparently Jack was expected to pee on a deadline.
 
 Jack quite reasonably wondered why he hadn’t done it then.
 
@@ -139,8 +141,6 @@ There were shops selling tea at the bottom, which was particularly welcome after
 {% include responsive-image.html src="/images/tea-store2-2026-10-13.jpeg" alt="Another view of the tea shop" article=true %}
 {% include responsive-image.html src="/images/tea-store3-2026-10-13.jpeg" alt="Tea shop during our Wulong visit" article=true %}
 
-A reasonably broad range of experiences for one outing.
-
 On the way back, we stopped briefly at a gas station, then later at another one for fuel. At this second stop, the driver had an apparently important phone call to make. It lasted ten or fifteen minutes.
 
 Naturally, Alois and Jack stepped out for a smoke.
@@ -151,15 +151,13 @@ They were still outside.
 
 He made it a few metres before realizing the van door was open.
 
-After an entire day of rushing us along, honking at bathroom breaks, and treating every minute as a resource of national importance, he’d nearly left two passengers at a gas station following his own extended phone call.
-
-A fitting conclusion to his approach to logistics.
+Ten or fifteen minutes for his phone call. Not another second for the passengers. This man had spent all day treating every minute as a resource of national importance, and now he was saving time by leaving some of us behind.
 
 We eventually made it back to our respective hotels and agreed to meet for hot pot later that evening. After spending the day together, it felt right to finish it around a table.
 
-{% include responsive-image.html src="/images/hotpot-2026-10-13.jpeg" alt="Scenery at Wujiang Gallery" article=true %}
+{% include responsive-image.html src="/images/hotpot-2026-10-13.jpeg" alt="Hot pot with the gang after our Wulong day trip" article=true %}
 
-Really glad I got to meet this gang. The scenery was spectacular, but the company supplied most of the laughs.
+That morning, we’d been strangers sharing a van. By evening, we were meeting up again voluntarily, after twelve hours together. Really glad I met this gang.
 
 Hope our paths cross again.
 
