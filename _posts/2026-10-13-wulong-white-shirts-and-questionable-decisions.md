@@ -103,10 +103,6 @@ Back in the van, we stopped for fuel. We’d just spent roughly an hour and a ha
 
 An excellent question, especially considering that Jack’s bathroom break had prompted an impatient series of honks. We could all sit and watch the van refuel, but apparently Jack was expected to pee on a deadline.
 
-Jack quite reasonably wondered why he hadn’t done it then.
-
-When Jack needed the bathroom, however, the driver honked impatiently for him to come back. Apparently, some stops were more defensible than others.
-
 I still couldn’t decide whether this man was a very good driver or a very bad one. He certainly used the horn with confidence. At one point, as he moved into the oncoming lane near a blind bend, I wondered whether I was about to feature in a news report about a tourist whose driver had decided that saving a minute was worth it.
 
 At least he was honking to warn anyone coming around the corner.
