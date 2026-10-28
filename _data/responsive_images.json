@@ -314,6 +314,23 @@
     ],
     "width": 1607
   },
+  "/images/ants1-2026-10-13.jpeg": {
+    "config": "d17013c4703649ec8c330e80fa01ac6b9f1167eef7e32267ed5530867b615161",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/ants1-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/ants1-2026-10-13.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
   "/images/architecture1-2026-10-10.jpeg": {
     "config": "5e213b393a5f88fc58def84ffc9fc6fc5284bb18ec0ce44e8a1562f5adb12c0a",
     "height": 2856,
@@ -1115,6 +1132,28 @@
     ],
     "width": 2448
   },
+  "/images/elevator-2026-10-13.jpeg": {
+    "config": "833332cf23382077a4863bd4ef16cf7334bfb947986aa14da9d4e67b90effc62",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/elevator-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/elevator-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/elevator-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
   "/images/failed-baozi-purchase-2026-10-05.jpeg": {
     "config": "f003a60d59847592ed4fb3585e57c5f20e224651f24db829e574ea2eb20e0a22",
     "height": 2856,
@@ -1175,6 +1214,62 @@
       }
     ],
     "width": 2016
+  },
+  "/images/gang1-2026-10-13.jpeg": {
+    "config": "c111e68451bfd17abe793c29880c0eaefadc8816e6f7f3e22534931f7f5df6f2",
+    "height": 1377,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/gang1-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/gang1-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/gang1-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
+  },
+  "/images/gang2-2026-10-12.jpeg": {
+    "config": "a48b1091ebb59b3edd2a60951281222f3af9d65013744384b2de2a30bd5032d6",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/gang2-2026-10-12.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/gang2-2026-10-12.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/gang2-2026-10-12.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/gang3-2026-10-13.jpeg": {
+    "config": "b7c9dbe6f84125c913ebe7c9b8059f3b1ddaeb4d7ea1642d630bf14131837e2f",
+    "height": 480,
+    "variants": [
+      {
+        "height": 215,
+        "url": "/images/optimized/gang3-2026-10-13.jpeg-320.webp",
+        "width": 320
+      }
+    ],
+    "width": 713
   },
   "/images/going-to-wuhan-mall1-2023-10-29.jpeg": {
     "config": "4510804d80bfd6f523b9c10b0f7c3a296f1ab23cbe98e7be92d3ec3c9d67ab75",
@@ -1253,6 +1348,28 @@
       }
     ],
     "width": 1288
+  },
+  "/images/gorges1-2026-10-13.jpeg": {
+    "config": "be5a537d9dd0cceaa01e1052c935eb55ef074223dcf1e66a405bbb44ebf61d47",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/gorges1-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/gorges1-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/gorges1-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
   },
   "/images/harmonica-yokocho-2026-10-05.jpeg": {
     "config": "0ca74253beb244afcfb0cace3c6df4c1026cfcc626e8f52ec45b0a7467f0a2f2",
@@ -2009,6 +2126,28 @@
     ],
     "width": 2016
   },
+  "/images/hotpot-2026-10-13.jpeg": {
+    "config": "2cac99a3d72114621a83bb31ff7bf4c130d1901a7b68467e714f0174ff5e2ff6",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/hotpot-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/hotpot-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/hotpot-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
   "/images/huaqiang_tech_plaza-2023-10-23.jpeg": {
     "config": "c9fbcbe49af5f85edc59b2815d1551833c2dc8ce97c64e9a53345aa916faa4db",
     "height": 2016,
@@ -2512,6 +2651,28 @@
     ],
     "width": 2016
   },
+  "/images/noodles-2026-10-12.jpeg": {
+    "config": "f4c0eb2f7b36d1b9bcafdbba793582fe6c909b26fecfc24eaff63cd57c4b967b",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/noodles-2026-10-12.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/noodles-2026-10-12.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/noodles-2026-10-12.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
   "/images/noodles-2026-10-17.jpeg": {
     "config": "a9d58b5790386658fcdddfbc151bfe3bd885c8d4ae6defd25fe6e693f4c0cbe7",
     "height": 1607,
@@ -2578,6 +2739,28 @@
     ],
     "width": 1778
   },
+  "/images/pastures1-2026-10-13.jpeg": {
+    "config": "32de7a9220fa54632f67fca1b00bab27c115c527ca7c6dfe4d2f61428485f496",
+    "height": 1607,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/pastures1-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/pastures1-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/pastures1-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2856
+  },
   "/images/plan-2026-10-11.jpeg": {
     "config": "7c5f48ab2f658699749ee41853b83e68513940ce6a6de5e4688fdf20d13b96b8",
     "height": 266,
@@ -2589,6 +2772,28 @@
       }
     ],
     "width": 578
+  },
+  "/images/poncho-2026-10-12.jpeg": {
+    "config": "2af9a73a841ebc71f90cc6c217a31e9445cda3efff86c6ed9edfcf46db2779a7",
+    "height": 1377,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/poncho-2026-10-12.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/poncho-2026-10-12.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/poncho-2026-10-12.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2448
   },
   "/images/rising-sun0-2026-10-04.jpeg": {
     "config": "7f53ff0a5fb5cf9a4590cbc0df7f9bea854062f29c0e2c2aa3dce15372da2cfb",
@@ -2866,6 +3071,28 @@
     ],
     "width": 2016
   },
+  "/images/skewer-2026-10-13.jpeg": {
+    "config": "caaf0a886a42909e26805ed9eb6a4a2572da7fad22c9ba1e0e878117b4aec481",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/skewer-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/skewer-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/skewer-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
   "/images/soba1-2026-10-06.jpeg": {
     "config": "b024fb7b407f8e54a0a9c4cc934931fecfbd1164b605e94168e98e6cd84a41e5",
     "height": 2856,
@@ -3026,6 +3253,94 @@
       }
     ],
     "width": 2448
+  },
+  "/images/tea-store-2026-10-13.jpeg": {
+    "config": "976ac3fcd5ac6d648012a6e7f94840e92dce18130e23f9bb1beb99072aeae8a9",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/tea-store-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/tea-store-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/tea-store-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/tea-store2-2026-10-13.jpeg": {
+    "config": "31dcee3477232797397ec321d09066fc211ca4b11ca24a5cf7b00fc258f89e2b",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/tea-store2-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/tea-store2-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/tea-store2-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
+  },
+  "/images/tea-store3-2026-10-13.jpeg": {
+    "config": "246832742d6cca33e1d93da3d930c1bab2eb035be78e04acef58d144abd40e8a",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/tea-store3-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/tea-store3-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/tea-store3-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/tea-whiskey-2026-10-13.jpeg": {
+    "config": "70d275e443b6a1292826aa4a260b4278758aa27484ce9588b5a9bd15b1bc4a48",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/tea-whiskey-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/tea-whiskey-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/tea-whiskey-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
   },
   "/images/tea1-2026-10-14.jpeg": {
     "config": "9ab515b20fc46a72e887970ed9b1a299d51d6377c6dcbdfefea7b7781e4d98b3",
@@ -3197,6 +3512,28 @@
       }
     ],
     "width": 1512
+  },
+  "/images/transformers-2026-10-13.jpeg": {
+    "config": "658aadb39b2248fe8045e95dd938ede515e0a85a2b1cd44d735c72a450ca29ee",
+    "height": 2856,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/transformers-2026-10-13.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/transformers-2026-10-13.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 2844,
+        "url": "/images/optimized/transformers-2026-10-13.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1607
   },
   "/images/trio-2026-10-11.jpeg": {
     "config": "e8cf792dca2257f4b5e2a550a28a49c9e714eb687a614ac891e95291f8067fe6",
@@ -3444,6 +3781,28 @@
       {
         "height": 1200,
         "url": "/images/optimized/wuhan-mall5-2023-10-30.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/wujiang1-2026-10-12.jpeg": {
+    "config": "c0950d698645bcb177e9c30dde2f4b18823334be5844c8d570462e5194d85b53",
+    "height": 1134,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/wujiang1-2026-10-12.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/wujiang1-2026-10-12.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 900,
+        "url": "/images/optimized/wujiang1-2026-10-12.jpeg-1600.webp",
         "width": 1600
       }
     ],
