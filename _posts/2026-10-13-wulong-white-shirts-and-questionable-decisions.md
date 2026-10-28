@@ -20,9 +20,13 @@ The biggest challenge, though, was that I’d decided to wear white.
 
 A morning full of bright decisions. Eating those noodles became an exercise in patience: too fast and I’d get oil on my shirt; too ambitious and my mouth and throat would burn. At least it forced me to slow down.
 
-Then I noticed an uncle eating the same noodles, showing the same signs of distress. Sweating, pausing, working through it. I couldn’t believe it. Had I graduated? Was I one of the boys?
+Then I noticed an uncle eating the same noodles. He was sweating. Pausing. Working through it.
 
-Until then, I’d assumed I was the foreigner struggling with the spice. Turns out I was enjoying breakfast and suffering through it just like a local.
+Hang on. So was I.
+
+I couldn’t believe it. Until then, I’d assumed this was a foreigner problem. But here was a local having exactly the same breakfast experience. Had I graduated? Was I one of the boys?
+
+Neither of us was having an easy time, but I found his suffering tremendously encouraging.
 
 The day’s objectives were Fairy Mountain, the Wulong Three Natural Bridges, and the Longshuixia Fissure Gorge. After breakfast, I sent my location to the person organizing the trip and waited for pickup.
 
