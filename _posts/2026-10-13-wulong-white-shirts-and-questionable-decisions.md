@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October 13 — Wulong, White Shirts, and Questionable Decisions"
+title: "Wulong, White Shirts, and Questionable Decisions"
 locations: [Chongqing, China]
 image: /images/gorges1-2026-10-13.jpeg
 description: "Spicy noodles, matching ponchos, enormous cliffs, and a driver with an unusual relationship with time. A day in Wulong with excellent company."
