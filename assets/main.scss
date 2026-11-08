@@ -125,3 +125,47 @@ body { font-family: "Source Serif 4", "Noto Serif SC", Georgia, serif; }
   .post-pagination-next { grid-column: auto; text-align: left; }
   .post-discovery { margin-top: 40px; }
 }
+
+/* Warm editorial journal — quiet interface, photographs first. */
+:root {
+  --journal-paper: #faf9f6;
+  --journal-ink: #292929;
+  --journal-copy: #484848;
+  --journal-muted: #737373;
+  --journal-link: #4779a8;
+  --journal-rule: #e5e2dc;
+}
+body { background: var(--journal-paper); color: var(--journal-copy); }
+a, a:visited { color: var(--journal-link); }
+a:hover, a:focus { color: #28577f; }
+::selection { background: #dce8f1; }
+.site-header { background: var(--journal-paper); border-bottom-color: var(--journal-rule); }
+.site-title, .site-title:visited { color: var(--journal-ink); letter-spacing: -.025em; }
+.site-nav .page-link { color: var(--journal-copy); letter-spacing: .035em; text-transform: none; }
+.site-nav .page-link:hover, .site-nav .page-link:focus { color: var(--journal-link); }
+.intro { border-bottom-color: var(--journal-rule); }
+.intro-kicker, .intro h1 em, .entry-location { color: var(--journal-link); }
+.intro h1, .section-heading h2, .entry h3, .post-title, .page-heading {
+  color: var(--journal-ink);
+  letter-spacing: -.035em;
+}
+.intro p, .entry p, .entry-empty, .post-discovery-label { color: var(--journal-copy); }
+.section-heading span, .entry-date, .post-meta,
+.post-content figcaption, .post-content .caption, .post-content small { color: var(--journal-muted); }
+.entry, .post-pagination { border-color: var(--journal-rule); }
+.entry h3 a, .entry h3 a:visited,
+.post-related-card h3 a, .post-related-card h3 a:visited { color: var(--journal-ink); }
+.entry h3 a:hover, .entry h3 a:focus,
+.post-related-card h3 a:hover, .post-related-card h3 a:focus { color: var(--journal-link); }
+.entry-filter label { color: var(--journal-muted); }
+.entry-filter select { background: #fff; color: var(--journal-ink); border-color: #d7d3cb; }
+.entry-filter select:focus-visible, .post-discovery a:focus-visible { outline-color: var(--journal-link); }
+.post-content { color: var(--journal-copy); max-width: 680px; line-height: 1.82; }
+.post-content h2, .post-content h3 { color: var(--journal-ink); }
+.post-content a { text-underline-offset: .16em; }
+.site-footer { background: #f3f1ec; border-top-color: var(--journal-rule); color: var(--journal-muted); }
+.footer-heading { color: var(--journal-ink); }
+@media (max-width: 600px) {
+  .post-content { line-height: 1.76; }
+  .intro { padding-top: 68px; padding-bottom: 72px; }
+}
