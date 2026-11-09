@@ -169,3 +169,59 @@ a:hover, a:focus { color: #28577f; }
   .post-content { line-height: 1.76; }
   .intro { padding-top: 68px; padding-bottom: 72px; }
 }
+
+/* Editorial dark mode. Keep the light palette untouched.
+   The homepage has inline styles, so homepage overrides are deliberately specific. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --dark-paper: #1c1d1e;
+    --dark-ink: #f0eee9;
+    --dark-copy: #c4c2bd;
+    --dark-muted: #a5a39e;
+    --dark-link: #8cb4d8;
+    --dark-rule: #383a3c;
+  }
+  body { background: var(--dark-paper); color: var(--dark-copy); }
+  a, a:visited { color: var(--dark-link); }
+  a:hover, a:focus { color: #b5d4ee; }
+  ::selection { background: #37536b; color: #fff; }
+  .site-header { background: var(--dark-paper); border-bottom-color: var(--dark-rule); }
+  .site-title, .site-title:visited, .footer-heading { color: var(--dark-ink); }
+  .site-nav .page-link { color: var(--dark-copy); }
+  .site-nav .page-link:hover, .site-nav .page-link:focus { color: var(--dark-link); }
+  .site-nav .menu-icon > svg { fill: var(--dark-copy); }
+  .site-nav .trigger { background: var(--dark-paper); }
+  .intro { border-bottom-color: var(--dark-rule); }
+  .intro-kicker, .intro h1 em, .entry-location { color: var(--dark-link); }
+  .intro h1, .section-heading h2, .entry h3,
+  .post-title, .page-heading, .post-content h2, .post-content h3,
+  .post-related h2 { color: var(--dark-ink); }
+  .intro p, .entry p, .entry-empty, .post-content,
+  .post-related-card p { color: var(--dark-copy); }
+  .section-heading span, .entry-date, .post-meta,
+  .post-discovery-label, .post-content figcaption,
+  .post-content .caption, .post-content small { color: var(--dark-muted); }
+  .entry, .post-pagination { border-color: var(--dark-rule); }
+  .entry h3 a, .entry h3 a:visited,
+  .post-related-card h3 a, .post-related-card h3 a:visited { color: var(--dark-ink); }
+  .entry h3 a:hover, .entry h3 a:focus,
+  .post-related-card h3 a:hover, .post-related-card h3 a:focus { color: var(--dark-link); }
+  .entry-filter label { color: var(--dark-muted); }
+  .entry-filter select { background: #292b2d; color: var(--dark-ink); border-color: #505256; }
+  .entry-filter select:focus-visible, .post-discovery a:focus-visible { outline-color: var(--dark-link); }
+  .site-footer { background: #242526; border-top-color: var(--dark-rule); color: var(--dark-muted); }
+  /* Homepage inline styles otherwise retain the original terracotta/green palette. */
+  .home-intro .intro-tagline { color: var(--dark-link); }
+  .selected-stories { border-bottom-color: var(--dark-rule); }
+  .selected-story .selected-story-link,
+  .selected-story .selected-story-link:visited { color: var(--dark-ink); }
+  .selected-story .selected-story-link:hover,
+  .selected-story .selected-story-link:focus { color: var(--dark-link); }
+  .selected-story .selected-story-link:focus-visible { outline-color: var(--dark-link); }
+  .selected-story p { color: var(--dark-copy); }
+  @media (max-width: 600px) {
+    .site-nav { background: transparent; }
+    .site-nav .menu-icon { border-color: var(--dark-rule); }
+  }
+}
