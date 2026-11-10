@@ -63,33 +63,3 @@ bundle exec jekyll serve
 ```
 
 Open `http://localhost:4000/travel/` in a browser.
-
-## Choose a photo's width
-
-Use the photo include as its own block, with a blank line before and after it:
-
-```liquid
-{% include photo.html
-   src="/images/pastures1-2026-10-13.jpeg"
-   alt="Open pastures at Fairy Mountain"
-   caption="Fairy Mountain."
-   size="full"
-%}
-```
-
-| `size` | Desktop presentation |
-| --- | --- |
-| `normal` (default) | Fits the 680px prose column |
-| `wide` | Extends beyond the prose, up to 1100px with outer margins |
-| `full` | Spans the page edge to edge |
-
-Choose the size separately for each shot. On screens up to 600px, all three
-use the text column's margins. Photos keep their original aspect ratio with no
-cropping; captions stay near the prose width and inherit the light/dark palette.
-Omit `caption` when it is not needed. Captions are plain text. Supply meaningful
-`alt` text, or `alt=""` for a purely decorative image.
-
-Pass the source path without `relative_url`; the include applies it and reuses
-the responsive image manifest, WebP variants, and lazy loading. Ordinary Markdown
-images keep their existing layout. Unrecognized sizes fall back to `normal`.
-Browsers without CSS container units also fall back to the normal width.
