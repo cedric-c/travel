@@ -225,30 +225,3 @@ a:hover, a:focus { color: #28577f; }
     .site-nav .menu-icon { border-color: var(--dark-rule); }
   }
 }
-
-/* Per-photo editorial widths. The main container excludes the scrollbar. */
-.page-content { container-type: inline-size; }
-.post-content .post-photo { margin: 36px 0; }
-.post-content .post-photo img { margin: 0; }
-.post-content .post-photo figcaption {
-  box-sizing: border-box;
-  max-width: 680px;
-  margin: 12px auto 0;
-}
-@supports (width: 100cqw) {
-  @media (min-width: 601px) {
-    .post-content .post-photo--wide {
-      --photo-wide-width: min(1100px, calc(100cqw - 56px));
-      width: var(--photo-wide-width);
-      max-width: none;
-      margin-inline: calc((100% - var(--photo-wide-width)) / 2);
-    }
-    .post-content .post-photo--full {
-      width: 100cqw;
-      max-width: none;
-      margin-inline: calc((100% - 100cqw) / 2);
-    }
-    .post-content .post-photo--full img { border-radius: 0; }
-    .post-content .post-photo figcaption { padding-inline: 28px; }
-  }
-}
