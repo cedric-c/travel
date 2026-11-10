@@ -2922,23 +2922,118 @@
     ],
     "width": 1460
   },
-  "/images/shanghai-20231031.jpeg": {
-    "config": "90dd4602a3024d149b7cd65020dacf80567cb47c0a2b14bcefdc88bad482afbd",
+  "/images/shanghai1-2023-10-31.jpeg": {
+    "config": "0b0c5f97d0dabed1c2e6fb8327a0e4c07d1c810b17f141571ad3247d641a1b43",
+    "height": 1103,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/shanghai1-2023-10-31.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/shanghai1-2023-10-31.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 899,
+        "url": "/images/optimized/shanghai1-2023-10-31.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 1963
+  },
+  "/images/shanghai2-2023-10-31.jpeg": {
+    "config": "556902ba21f68318892bdc02eb2beae9ac57e15013136cbe7e71eefa8a451058",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 569,
+        "url": "/images/optimized/shanghai2-2023-10-31.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1422,
+        "url": "/images/optimized/shanghai2-2023-10-31.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1134
+  },
+  "/images/shanghai3-2023-10-31.jpeg": {
+    "config": "ff03eb2978a19f6f55a68e560d326a1eb258918e35f3c5e3193278cc4c3ac8a9",
+    "height": 870,
+    "variants": [
+      {
+        "height": 180,
+        "url": "/images/optimized/shanghai3-2023-10-31.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 450,
+        "url": "/images/optimized/shanghai3-2023-10-31.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1548
+  },
+  "/images/shanghai4-2023-10-31.jpeg": {
+    "config": "45e6cc2df0c3fd3fd806e1802c6bc752e25da1f8129392c9a18c92b617440794",
+    "height": 2016,
+    "variants": [
+      {
+        "height": 427,
+        "url": "/images/optimized/shanghai4-2023-10-31.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 1067,
+        "url": "/images/optimized/shanghai4-2023-10-31.jpeg-800.webp",
+        "width": 800
+      }
+    ],
+    "width": 1512
+  },
+  "/images/shanghai5-2023-10-31.jpeg": {
+    "config": "8b45ed8dac5c23d3ab2fb259cded40e18772457e20e6778f07def5748a0c9e3d",
     "height": 1512,
     "variants": [
       {
         "height": 240,
-        "url": "/images/optimized/shanghai-20231031.jpeg-320.webp",
+        "url": "/images/optimized/shanghai5-2023-10-31.jpeg-320.webp",
         "width": 320
       },
       {
         "height": 600,
-        "url": "/images/optimized/shanghai-20231031.jpeg-800.webp",
+        "url": "/images/optimized/shanghai5-2023-10-31.jpeg-800.webp",
         "width": 800
       },
       {
         "height": 1200,
-        "url": "/images/optimized/shanghai-20231031.jpeg-1600.webp",
+        "url": "/images/optimized/shanghai5-2023-10-31.jpeg-1600.webp",
+        "width": 1600
+      }
+    ],
+    "width": 2016
+  },
+  "/images/shanghai6-2023-10-31.jpeg": {
+    "config": "7190c3d681998e7fd02382ce351e4d963948e0bb0c2c77e9014b8639b6f56474",
+    "height": 1512,
+    "variants": [
+      {
+        "height": 240,
+        "url": "/images/optimized/shanghai6-2023-10-31.jpeg-320.webp",
+        "width": 320
+      },
+      {
+        "height": 600,
+        "url": "/images/optimized/shanghai6-2023-10-31.jpeg-800.webp",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "url": "/images/optimized/shanghai6-2023-10-31.jpeg-1600.webp",
         "width": 1600
       }
     ],
