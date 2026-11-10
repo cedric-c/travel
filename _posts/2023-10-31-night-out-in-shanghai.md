@@ -7,7 +7,7 @@ image: /images/shanghai1-2023-10-31.jpeg
 description: "Night photos from Shanghai’s Bund, from the Pudong skyline across the Huangpu River to the floodlit clock tower on the waterfront."
 ---
 
-{% include responsive-image.html src="/images/shanghai1-2023-10-31.jpeg" alt="The Oriental Pearl Tower glows pink above the Pudong skyline, with city lights reflected in the Huangpu River" article=true size="full" %}
+{% include photo.html src="/images/shanghai1-2023-10-31.jpeg" alt="View of the Shanghai evening cityscapes" size="full" %}
 {% include responsive-image.html src="/images/shanghai5-2023-10-31.jpeg" alt="Crowds line an intersection beneath floodlit buildings on the Bund" article=true %}
 {% include responsive-image.html src="/images/shanghai4-2023-10-31.jpeg" alt="A turquoise pyramidal roof above a gold-lit stone façade" article=true %}
 {% include responsive-image.html src="/images/shanghai3-2023-10-31.jpeg" alt="A floodlit clock tower and neighboring dome rise above trees along the Bund" article=true %}
